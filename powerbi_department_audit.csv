@@ -1,0 +1,4 @@
+Group,Total,Actual_Attrition_%,AI_Flagged_%,Avg_AI_Risk_Score,False_Positive_Rate_%,False_Negative_Rate_%
+Research & Development,961,13.8,5.6,16.4,2.4,74.4
+Human Resources,63,19.0,3.2,16.2,0.0,83.3
+Sales,446,20.6,5.6,15.5,2.0,80.4

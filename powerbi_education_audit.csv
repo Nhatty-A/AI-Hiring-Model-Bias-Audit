@@ -1,0 +1,6 @@
+Group,Total,Actual_Attrition_%,AI_Flagged_%,Avg_AI_Risk_Score,False_Positive_Rate_%,False_Negative_Rate_%
+Below College,170,18.2,4.7,19.1,1.4,80.6
+College,282,15.6,6.4,16.7,3.8,79.5
+Bachelor,572,17.3,6.5,16.1,1.7,70.7
+Master,398,14.6,4.0,14.8,2.1,84.5
+Doctor,48,10.4,4.2,13.0,2.3,80.0

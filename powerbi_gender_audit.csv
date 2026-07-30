@@ -1,0 +1,3 @@
+Group,Total,Actual_Attrition_%,AI_Flagged_%,Avg_AI_Risk_Score,False_Positive_Rate_%,False_Negative_Rate_%
+Male,882,17.0,5.9,16.7,2.2,76.0
+Female,588,14.8,4.9,15.3,2.2,79.3

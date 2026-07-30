@@ -1,0 +1,5 @@
+Group,Total,Actual_Attrition_%,AI_Flagged_%,Avg_AI_Risk_Score,False_Positive_Rate_%,False_Negative_Rate_%
+18-25,115,34.8,17.4,31.6,9.3,67.5
+26-35,606,19.1,7.3,19.6,2.4,72.4
+36-45,468,9.2,3.2,13.2,1.9,83.7
+46-60,273,12.5,0.4,6.5,0.0,97.1

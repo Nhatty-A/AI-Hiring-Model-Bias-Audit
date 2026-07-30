@@ -1,0 +1,1471 @@
+Age,Age_Group,Gender,Education_Label,Department,MonthlyIncome,JobLevel,YearsAtCompany,OverTime,Attrition,Attrition_Binary,AI_Risk_Score_LR,AI_Risk_Score_RF,AI_Flag_LR,AI_Flag_RF
+41,36-45,Female,College,Sales,5993,2,6,1,Yes,1,0.5057988677551873,0.66,1,1
+49,46-60,Male,Below College,Research & Development,5130,2,10,0,No,0,0.025955383606220468,0.06,0,0
+37,36-45,Male,College,Research & Development,2090,1,0,1,Yes,1,0.3113723370266512,0.44,0,0
+33,26-35,Female,Master,Research & Development,2909,1,8,1,No,0,0.12410977419537955,0.31,0,0
+27,26-35,Male,Below College,Research & Development,3468,1,2,0,No,0,0.49971958639639125,0.12,0,0
+32,26-35,Male,College,Research & Development,3068,1,7,0,No,0,0.030693848094338522,0.03,0,0
+59,46-60,Female,Bachelor,Research & Development,2670,1,1,1,No,0,0.19431986117182007,0.07,0,0
+30,26-35,Male,Below College,Research & Development,2693,1,1,0,No,0,0.15105295469422744,0.21,0,0
+38,36-45,Male,Bachelor,Research & Development,9526,3,9,0,No,0,0.02993116468936147,0.01,0,0
+36,36-45,Male,Bachelor,Research & Development,5237,2,7,0,No,0,0.1354110738685085,0.03,0,0
+35,26-35,Male,Bachelor,Research & Development,2426,1,5,0,No,0,0.17459693885556743,0.14,0,0
+29,26-35,Female,College,Research & Development,4193,2,9,1,No,0,0.19409534710390142,0.05,0,0
+31,26-35,Male,Below College,Research & Development,2911,1,5,0,No,0,0.39239928494093573,0.06,0,0
+34,26-35,Male,College,Research & Development,2661,1,2,0,No,0,0.13011292158254908,0.06,0,0
+28,26-35,Male,Bachelor,Research & Development,2028,1,4,1,Yes,1,0.6329674544856115,0.79,1,1
+29,26-35,Female,Master,Research & Development,9980,3,10,0,No,0,0.15613462183759422,0.16,0,0
+32,26-35,Male,College,Research & Development,3298,1,6,1,No,0,0.557436509561086,0.24,1,0
+22,18-25,Male,College,Research & Development,2935,1,1,1,No,0,0.5218904338635022,0.73,1,1
+53,46-60,Female,Master,Sales,15427,4,25,0,No,0,0.008379916478333317,0.03,0,0
+38,36-45,Male,Bachelor,Research & Development,3944,1,3,1,No,0,0.2054940195953129,0.01,0,0
+24,18-25,Female,College,Research & Development,4011,2,4,0,No,0,0.229676372643816,0.02,0,0
+36,36-45,Male,Master,Sales,3407,1,5,0,Yes,1,0.19336062218914735,0.65,0,1
+34,26-35,Female,Master,Research & Development,11994,3,12,0,No,0,0.07482796471246286,0.04,0,0
+21,18-25,Male,College,Research & Development,1232,1,0,0,No,0,0.17923262210388569,0.13,0,0
+34,26-35,Male,Below College,Research & Development,2960,1,4,0,Yes,1,0.21337180893250005,0.11,0,0
+53,46-60,Female,Bachelor,Research & Development,19094,5,14,0,No,0,0.00518722733004432,0.0,0,0
+32,26-35,Female,Below College,Research & Development,3919,1,10,1,Yes,1,0.49858578981186286,0.71,0,1
+42,36-45,Male,Master,Sales,6825,2,9,0,No,0,0.038454828513037616,0.07,0,0
+44,36-45,Female,Master,Research & Development,10248,3,22,0,No,0,0.033833994087203646,0.04,0,0
+46,46-60,Female,Master,Sales,18947,5,2,0,No,0,0.04137853882717913,0.0,0,0
+33,26-35,Male,Bachelor,Research & Development,2496,1,1,0,No,0,0.08821518555910252,0.1,0,0
+44,36-45,Male,Master,Research & Development,6465,2,4,1,No,0,0.07325064417365909,0.05,0,0
+30,26-35,Male,College,Research & Development,2206,1,10,0,No,0,0.08785932269962712,0.02,0,0
+39,36-45,Male,Bachelor,Sales,2086,2,1,0,Yes,1,0.01607641825379891,0.72,0,1
+24,18-25,Male,Bachelor,Research & Development,2293,1,2,1,Yes,1,0.5350414618057109,0.76,1,1
+43,36-45,Female,College,Research & Development,2645,1,5,0,No,0,0.03627462063132174,0.02,0,0
+50,46-60,Male,College,Sales,2683,1,3,1,Yes,1,0.2801205420424681,0.21,0,0
+35,26-35,Female,Bachelor,Sales,2014,1,2,0,No,0,0.03713740583017447,0.09,0,0
+36,36-45,Female,Master,Research & Development,3419,1,1,1,No,0,0.6579081445266195,0.08,1,0
+33,26-35,Female,Bachelor,Sales,5376,2,5,0,No,0,0.0835202355484495,0.02,0,0
+35,26-35,Male,College,Research & Development,1951,1,1,0,No,0,0.08210392743555105,0.02,0,0
+27,26-35,Female,Master,Research & Development,2341,1,1,0,No,0,0.1308029672198598,0.49,0,0
+26,26-35,Male,Bachelor,Research & Development,2293,1,1,0,Yes,1,0.533336361733343,0.93,1,1
+27,26-35,Male,Bachelor,Sales,8726,3,9,0,No,0,0.046300292971345074,0.04,0,0
+30,26-35,Female,College,Research & Development,4011,2,12,0,No,0,0.025182927164728978,0.02,0,0
+41,36-45,Female,Bachelor,Research & Development,19545,5,22,0,Yes,1,0.012046208975788692,0.02,0,0
+34,26-35,Male,Master,Sales,4568,2,9,0,No,0,0.10842822812910455,0.01,0,0
+37,36-45,Male,College,Research & Development,3022,1,1,0,No,0,0.26088093859528105,0.04,0,0
+46,46-60,Male,Master,Sales,5772,2,9,1,No,0,0.1604877297773866,0.06,0,0
+35,26-35,Male,Below College,Research & Development,2269,1,1,0,No,0,0.06095747327446295,0.06,0,0
+48,46-60,Male,College,Research & Development,5381,3,1,1,Yes,1,0.34714473490398845,0.74,0,1
+28,26-35,Male,Master,Research & Development,3441,1,2,1,Yes,1,0.44619491731691335,0.68,0,1
+44,36-45,Female,Doctor,Sales,5454,2,4,1,No,0,0.4303784094195784,0.02,0,0
+35,26-35,Male,College,Research & Development,9884,3,4,1,No,0,0.42822858215203174,0.13,0,0
+26,26-35,Female,Bachelor,Sales,4157,2,2,1,No,0,0.671420582008366,0.14,1,0
+33,26-35,Female,College,Research & Development,13458,3,15,1,No,0,0.08374283640558511,0.06,0,0
+35,26-35,Male,Doctor,Sales,9069,3,9,0,No,0,0.14294056245778472,0.04,0,0
+35,26-35,Female,Master,Research & Development,4014,1,2,1,No,0,0.571888561264996,0.14,1,0
+31,26-35,Male,Master,Research & Development,5915,2,7,0,No,0,0.03944999223302801,0.04,0,0
+37,36-45,Male,Master,Research & Development,5993,2,7,0,No,0,0.06300162944467048,0.01,0,0
+32,26-35,Male,Bachelor,Research & Development,6162,2,9,1,No,0,0.18876234885133697,0.08,0,0
+38,36-45,Female,Doctor,Research & Development,2406,2,10,0,No,0,0.06655154498819936,0.03,0,0
+50,46-60,Female,College,Research & Development,18740,5,27,1,No,0,0.18143252045060015,0.04,0,0
+59,46-60,Female,Bachelor,Sales,7637,3,21,0,No,0,0.05451404116756401,0.05,0,0
+36,36-45,Female,Bachelor,Research & Development,10096,3,17,0,No,0,0.014597433791784584,0.01,0,0
+55,46-60,Female,Bachelor,Research & Development,14756,4,5,1,No,0,0.03828460842228405,0.01,0,0
+36,36-45,Male,Bachelor,Research & Development,6499,2,6,0,No,0,0.11224168300295742,0.02,0,0
+45,36-45,Male,Bachelor,Research & Development,9724,3,1,0,No,0,0.048941088755657086,0.01,0,0
+35,26-35,Male,Bachelor,Research & Development,2194,1,3,0,No,0,0.3156547673733115,0.03,0,0
+36,36-45,Male,Bachelor,Research & Development,3388,1,1,1,Yes,1,0.3269126296838581,0.31,0,0
+59,46-60,Female,Below College,Sales,5473,2,4,0,No,0,0.05166792012493739,0.1,0,0
+29,26-35,Male,Bachelor,Research & Development,2703,1,5,0,No,0,0.07632900425333349,0.04,0,0
+31,26-35,Male,Master,Research & Development,2501,1,1,0,No,0,0.12217557707009069,0.14,0,0
+32,26-35,Male,Bachelor,Research & Development,6220,2,10,0,No,0,0.10060543878642444,0.02,0,0
+36,36-45,Female,Bachelor,Research & Development,3038,1,1,0,No,0,0.10596511222528449,0.02,0,0
+31,26-35,Female,Master,Research & Development,4424,2,11,0,No,0,0.033610170940173704,0.01,0,0
+35,26-35,Male,Master,Sales,4312,2,15,0,No,0,0.029805726284025724,0.01,0,0
+45,36-45,Male,Master,Research & Development,13245,3,0,1,No,0,0.11937037706922657,0.03,0,0
+37,36-45,Male,Master,Research & Development,13664,3,5,0,No,0,0.0739927100945507,0.06,0,0
+46,46-60,Male,College,Human Resources,5021,2,4,1,No,0,0.372517749030208,0.06,0,0
+30,26-35,Male,Below College,Research & Development,5126,2,10,1,No,0,0.13925802921792296,0.01,0,0
+35,26-35,Male,Bachelor,Research & Development,2859,1,6,0,No,0,0.0762316686479339,0.01,0,0
+55,46-60,Male,College,Sales,10239,3,1,0,No,0,0.01599181539571617,0.07,0,0
+38,36-45,Female,Bachelor,Research & Development,5329,2,13,1,No,0,0.16961081618707954,0.03,0,0
+34,26-35,Male,College,Research & Development,4325,2,5,0,No,0,0.18789941787015868,0.01,0,0
+56,46-60,Male,Bachelor,Research & Development,7260,3,6,0,No,0,0.004940756850631868,0.04,0,0
+23,18-25,Male,Below College,Sales,2322,1,0,0,No,0,0.3055596213730735,0.16,0,0
+51,46-60,Male,Master,Research & Development,2075,1,4,0,No,0,0.018406270482925743,0.03,0,0
+30,26-35,Male,Bachelor,Research & Development,4152,2,11,0,No,0,0.025007844290979273,0.01,0,0
+46,46-60,Male,College,Sales,9619,3,9,0,Yes,1,0.015202804570025576,0.7,0,1
+40,36-45,Male,Master,Research & Development,13503,4,22,0,No,0,0.044632685108506806,0.01,0,0
+51,46-60,Male,Master,Sales,5441,2,10,1,No,0,0.12733076662151896,0.03,0,0
+30,26-35,Female,College,Sales,5209,2,11,1,No,0,0.24703156809972174,0.02,0,0
+46,46-60,Male,Bachelor,Research & Development,10673,3,10,1,No,0,0.08471780538923875,0.07,0,0
+32,26-35,Male,Master,Sales,5010,2,11,0,No,0,0.07077634713693665,0.0,0,0
+54,46-60,Female,Master,Research & Development,13549,3,4,0,No,0,0.0917303238909197,0.04,0,0
+24,18-25,Female,College,Sales,4999,2,3,0,No,0,0.20503868939098824,0.02,0,0
+28,26-35,Male,Bachelor,Sales,4221,2,5,0,No,0,0.09036683884887818,0.03,0,0
+58,46-60,Male,Master,Sales,13872,4,37,0,No,0,0.005011474924697155,0.04,0,0
+44,36-45,Male,Bachelor,Research & Development,2042,2,3,0,No,0,0.10905300221207169,0.05,0,0
+37,36-45,Male,Master,Human Resources,2073,1,3,1,Yes,1,0.44564397214409307,0.76,0,1
+32,26-35,Male,Below College,Research & Development,2956,1,1,0,No,0,0.14037776790186504,0.12,0,0
+20,18-25,Female,Bachelor,Research & Development,2926,1,1,1,Yes,1,0.2937548918993045,0.8,0,1
+34,26-35,Female,Master,Research & Development,4809,2,16,0,No,0,0.03937192350174278,0.03,0,0
+37,36-45,Male,College,Research & Development,5163,2,1,0,No,0,0.039244462120681875,0.11,0,0
+59,46-60,Female,Master,Human Resources,18844,5,3,0,No,0,0.0061736702008140425,0.03,0,0
+50,46-60,Female,Bachelor,Research & Development,18172,5,8,1,No,0,0.11314671681772186,0.04,0,0
+25,18-25,Male,Bachelor,Sales,5744,2,6,1,Yes,1,0.3634124245918564,0.66,0,1
+25,18-25,Male,Below College,Research & Development,2889,1,2,0,No,0,0.08593382487881661,0.04,0,0
+22,18-25,Female,Bachelor,Research & Development,2871,1,0,0,No,0,0.19283019144650484,0.55,0,1
+51,46-60,Female,Master,Research & Development,7484,3,13,0,No,0,0.03053574389894815,0.03,0,0
+34,26-35,Male,Bachelor,Research & Development,6074,2,9,1,Yes,1,0.27181819719811395,0.63,0,1
+54,46-60,Female,Bachelor,Human Resources,17328,4,5,1,No,0,0.03029505045457707,0.01,0,0
+24,18-25,Male,Below College,Research & Development,2774,1,5,0,No,0,0.21526652810658084,0.02,0,0
+34,26-35,Female,Master,Research & Development,4505,2,1,0,No,0,0.1440832225349492,0.13,0,0
+37,36-45,Male,Bachelor,Sales,7428,3,5,0,No,0,0.0344824679856798,0.01,0,0
+34,26-35,Female,Bachelor,Research & Development,11631,3,11,0,No,0,0.03301937191316343,0.02,0,0
+36,36-45,Female,College,Sales,9738,3,9,0,No,0,0.02556525892985042,0.09,0,0
+36,36-45,Female,College,Research & Development,2835,1,1,0,No,0,0.14482222795075553,0.06,0,0
+43,36-45,Male,College,Sales,16959,4,25,1,No,0,0.04100195635386599,0.03,0,0
+30,26-35,Male,Bachelor,Research & Development,2613,1,10,0,No,0,0.21528041899078476,0.01,0,0
+33,26-35,Male,College,Sales,6146,2,7,0,No,0,0.06901583595393716,0.01,0,0
+56,46-60,Female,Master,Research & Development,4963,1,5,1,Yes,1,0.4036278838809429,0.22,0,0
+51,46-60,Male,Bachelor,Research & Development,19537,5,20,0,No,0,0.011909397242370653,0.1,0,0
+31,26-35,Male,Master,Sales,6172,2,7,1,Yes,1,0.35857044524392573,0.71,0,1
+26,26-35,Female,Bachelor,Research & Development,2368,1,5,0,No,0,0.1458935948312437,0.02,0,0
+58,46-60,Female,Master,Research & Development,10312,3,40,0,Yes,1,0.005744240758205611,0.13,0,0
+19,18-25,Male,Below College,Sales,1675,1,0,1,Yes,1,0.6657883138851907,0.95,1,1
+22,18-25,Male,Below College,Research & Development,2523,1,2,0,No,0,0.1052465190654749,0.04,0,0
+49,46-60,Female,Master,Research & Development,6567,2,15,0,No,0,0.040666517952293604,0.03,0,0
+43,36-45,Female,Bachelor,Research & Development,4739,1,3,0,No,0,0.10336858291202182,0.04,0,0
+50,46-60,Female,Bachelor,Sales,9208,3,2,0,No,0,0.021140968018351497,0.02,0,0
+31,26-35,Female,Bachelor,Sales,4559,2,2,1,Yes,1,0.5711308958934362,0.41,1,0
+41,36-45,Male,Below College,Sales,8189,3,9,1,No,0,0.15698552570026245,0.07,0,0
+26,26-35,Female,Below College,Human Resources,2942,1,8,0,No,0,0.09540866897166383,0.04,0,0
+36,36-45,Male,College,Research & Development,4941,2,3,0,No,0,0.23716439899476688,0.14,0,0
+51,46-60,Male,Master,Research & Development,10650,3,4,0,Yes,1,0.028737652335854253,0.08,0,0
+39,36-45,Female,Master,Sales,5902,2,15,0,No,0,0.01414486268021011,0.01,0,0
+25,18-25,Male,Bachelor,Sales,8639,2,2,0,No,0,0.3249777928810246,0.13,0,0
+30,26-35,Male,Bachelor,Human Resources,6347,2,11,1,No,0,0.18988607647402844,0.01,0,0
+32,26-35,Female,Bachelor,Research & Development,4200,1,5,0,Yes,1,0.2777001778923226,0.75,0,1
+45,36-45,Male,Bachelor,Research & Development,3452,1,6,0,No,0,0.12033354359038043,0.06,0,0
+38,36-45,Female,Doctor,Research & Development,4317,2,3,1,No,0,0.09505425923000821,0.0,0,0
+30,26-35,Female,Bachelor,Research & Development,2632,1,5,0,No,0,0.24217840516541805,0.05,0,0
+32,26-35,Male,College,Sales,4668,2,8,0,No,0,0.01848372434761076,0.04,0,0
+30,26-35,Female,Bachelor,Research & Development,3204,1,3,0,No,0,0.15278000937277844,0.07,0,0
+30,26-35,Male,Below College,Research & Development,2720,1,5,0,No,0,0.07537973250992148,0.02,0,0
+41,36-45,Male,Bachelor,Research & Development,17181,4,7,0,No,0,0.0386248639200025,0.04,0,0
+41,36-45,Male,Master,Research & Development,2238,1,5,0,No,0,0.14742742879704973,0.15,0,0
+19,18-25,Female,Below College,Research & Development,1483,1,1,0,No,0,0.3042084096534445,0.19,0,0
+40,36-45,Female,Bachelor,Research & Development,5605,2,20,0,No,0,0.09719481655341655,0.03,0,0
+35,26-35,Male,Doctor,Sales,7295,3,10,0,No,0,0.043308455382378507,0.07,0,0
+53,46-60,Male,College,Sales,2306,2,7,1,No,0,0.15831333809320713,0.13,0,0
+45,36-45,Male,Bachelor,Research & Development,2348,2,17,0,No,0,0.17996836787434364,0.08,0,0
+32,26-35,Female,Bachelor,Sales,8998,3,9,0,No,0,0.041612795970943826,0.04,0,0
+29,26-35,Male,Below College,Research & Development,4319,2,10,0,No,0,0.04147865958979604,0.01,0,0
+51,46-60,Male,Master,Research & Development,6132,2,1,0,No,0,0.04931288754413158,0.04,0,0
+58,46-60,Female,Bachelor,Research & Development,3346,1,1,1,No,0,0.2724009850933003,0.06,0,0
+40,36-45,Male,Master,Sales,10855,3,12,0,No,0,0.039163649466900555,0.03,0,0
+34,26-35,Female,Master,Sales,2231,1,4,0,No,0,0.10942517218518823,0.05,0,0
+22,18-25,Male,Below College,Research & Development,2323,1,2,0,No,0,0.1268743961203139,0.19,0,0
+27,26-35,Male,Bachelor,Research & Development,2024,1,2,0,No,0,0.3467469123753062,0.16,0,0
+28,26-35,Male,Bachelor,Research & Development,2713,1,5,0,No,0,0.24834463983641164,0.06,0,0
+57,46-60,Male,College,Research & Development,9439,3,5,1,No,0,0.17879207917689557,0.11,0,0
+27,26-35,Male,Bachelor,Research & Development,2566,1,1,1,No,0,0.48826930974988536,0.23,0,0
+50,46-60,Female,Bachelor,Research & Development,19926,5,5,0,No,0,0.012299385852568746,0.01,0,0
+41,36-45,Male,Bachelor,Research & Development,2451,1,9,0,No,0,0.11300436089401705,0.03,0,0
+30,26-35,Female,Bachelor,Sales,9419,3,10,0,No,0,0.0396650139128377,0.03,0,0
+38,36-45,Female,Master,Sales,8686,2,8,0,No,0,0.05041880004710702,0.04,0,0
+32,26-35,Male,Doctor,Research & Development,3038,1,5,0,No,0,0.08756019768129551,0.08,0,0
+27,26-35,Male,Bachelor,Research & Development,3058,1,5,1,No,0,0.5577427330685385,0.16,1,0
+19,18-25,Female,Below College,Sales,2325,1,0,0,Yes,1,0.1483727921568083,0.79,0,1
+36,36-45,Male,College,Research & Development,2088,1,8,0,No,0,0.0670880455884419,0.05,0,0
+30,26-35,Male,Bachelor,Research & Development,3072,2,12,0,No,0,0.09092592910146399,0.16,0,0
+45,36-45,Female,College,Sales,5006,2,5,1,No,0,0.20963636641606725,0.02,0,0
+56,46-60,Female,Bachelor,Research & Development,4257,1,2,1,No,0,0.11996562099931828,0.02,0,0
+33,26-35,Male,Bachelor,Research & Development,2500,1,3,0,No,0,0.046748605820068005,0.01,0,0
+19,18-25,Male,Bachelor,Research & Development,1102,1,1,0,Yes,1,0.24635888017054972,0.73,0,1
+46,46-60,Female,College,Sales,10453,3,24,0,No,0,0.014638216341067392,0.06,0,0
+38,36-45,Female,College,Research & Development,2288,1,2,0,No,0,0.05638753724036033,0.11,0,0
+31,26-35,Female,Below College,Research & Development,3929,1,4,1,No,0,0.48831397058043047,0.23,0,0
+34,26-35,Female,College,Research & Development,2311,1,3,0,No,0,0.11724475727528881,0.03,0,0
+41,36-45,Female,College,Sales,3140,1,4,1,Yes,1,0.4184945800219419,0.28,0,0
+50,46-60,Male,Bachelor,Research & Development,3690,1,3,0,No,0,0.050571872352725825,0.02,0,0
+53,46-60,Female,College,Research & Development,4450,2,4,0,No,0,0.04515292986671693,0.05,0,0
+33,26-35,Female,Bachelor,Research & Development,2756,1,8,0,No,0,0.04946626732989265,0.01,0,0
+40,36-45,Female,Below College,Research & Development,19033,5,20,0,No,0,0.009006513108262861,0.0,0,0
+55,46-60,Male,Master,Research & Development,18722,5,24,0,No,0,0.009642803683166992,0.06,0,0
+34,26-35,Male,Below College,Research & Development,9547,2,10,0,No,0,0.025733798891964303,0.03,0,0
+51,46-60,Female,Bachelor,Research & Development,13734,4,7,0,No,0,0.005452790622776245,0.03,0,0
+52,46-60,Male,Master,Research & Development,19999,5,33,0,No,0,0.0014219751411962212,0.14,0,0
+27,26-35,Female,Bachelor,Research & Development,2279,1,7,0,No,0,0.08892426503918895,0.09,0,0
+35,26-35,Male,College,Research & Development,5916,2,1,1,Yes,1,0.5681494891189643,0.8,1,1
+43,36-45,Male,Bachelor,Research & Development,2089,1,5,0,No,0,0.02707669297316168,0.03,0,0
+45,36-45,Male,College,Research & Development,16792,4,20,0,No,0,0.05200219991796535,0.07,0,0
+37,36-45,Male,Bachelor,Research & Development,3564,1,8,1,No,0,0.5439406845522011,0.12,1,0
+35,26-35,Female,Bachelor,Research & Development,4425,2,6,0,No,0,0.1500621252707065,0.15,0,0
+42,36-45,Female,College,Research & Development,5265,2,5,0,No,0,0.04959253826930912,0.01,0,0
+38,36-45,Male,Master,Research & Development,6553,2,1,0,No,0,0.08820795953301216,0.04,0,0
+38,36-45,Male,Bachelor,Research & Development,6261,2,7,0,No,0,0.08074954143567326,0.03,0,0
+27,26-35,Male,Below College,Research & Development,4298,2,2,0,No,0,0.2506142382139646,0.09,0,0
+49,46-60,Male,Master,Research & Development,6804,2,7,1,No,0,0.07974455481035796,0.05,0,0
+34,26-35,Male,Master,Research & Development,3815,1,5,1,No,0,0.16095473321018727,0.11,0,0
+40,36-45,Male,College,Research & Development,2741,2,7,1,No,0,0.34335498732107894,0.05,0,0
+38,36-45,Male,Below College,Research & Development,6673,2,1,1,Yes,1,0.7009817160643264,0.74,1,1
+29,26-35,Female,Bachelor,Sales,7639,3,10,0,Yes,1,0.14364745825535502,0.69,0,1
+22,18-25,Male,Bachelor,Research & Development,2328,1,4,1,No,0,0.5130638838237092,0.29,1,0
+36,36-45,Female,Below College,Research & Development,2153,1,8,0,No,0,0.12099384566402696,0.01,0,0
+40,36-45,Male,Doctor,Research & Development,4876,2,3,0,No,0,0.16410190142092612,0.1,0,0
+46,46-60,Male,Master,Research & Development,9396,3,4,0,No,0,0.053055748549425574,0.01,0,0
+32,26-35,Male,Master,Sales,10400,3,14,0,Yes,1,0.026640217054905307,0.71,0,1
+30,26-35,Male,Below College,Research & Development,8474,3,11,0,No,0,0.032829141926277915,0.06,0,0
+27,26-35,Female,Bachelor,Sales,9981,2,7,0,No,0,0.05524597470721497,0.02,0,0
+51,46-60,Male,Master,Research & Development,12490,3,10,0,No,0,0.05068244925181979,0.06,0,0
+30,26-35,Female,Bachelor,Research & Development,2657,1,5,1,Yes,1,0.43564424378211763,0.62,0,1
+41,36-45,Female,Bachelor,Sales,13591,3,1,1,No,0,0.062177480337112734,0.04,0,0
+30,26-35,Female,Master,Sales,6696,2,6,0,Yes,1,0.33802247798423735,0.62,0,1
+29,26-35,Male,Bachelor,Research & Development,2058,1,6,0,Yes,1,0.1198853242982384,0.05,0,0
+45,36-45,Female,Bachelor,Sales,8865,3,19,0,No,0,0.01743963501708406,0.0,0,0
+54,46-60,Female,Bachelor,Sales,5940,2,6,0,No,0,0.018919927329718058,0.0,0,0
+36,36-45,Male,College,Research & Development,5914,2,13,0,No,0,0.0399193828090084,0.02,0,0
+33,26-35,Female,Master,Research & Development,2622,1,3,0,No,0,0.15091097369443415,0.07,0,0
+37,36-45,Male,Bachelor,Research & Development,12185,3,10,1,No,0,0.15136264630315957,0.09,0,0
+38,36-45,Male,Bachelor,Sales,10609,3,16,0,No,0,0.03594336516326306,0.06,0,0
+31,26-35,Male,Master,Research & Development,4345,2,5,0,No,0,0.0625281491413813,0.01,0,0
+59,46-60,Male,Bachelor,Research & Development,2177,1,1,0,No,0,0.018245469800361753,0.14,0,0
+37,36-45,Male,Master,Sales,2793,1,9,0,No,0,0.07051147929253453,0.0,0,0
+29,26-35,Female,Below College,Sales,7918,3,11,0,No,0,0.02599114186772993,0.0,0,0
+35,26-35,Female,Bachelor,Sales,8789,3,10,0,No,0,0.02089559833320219,0.02,0,0
+29,26-35,Male,Below College,Research & Development,2389,1,4,1,Yes,1,0.433150245406317,0.49,0,0
+52,46-60,Female,Bachelor,Research & Development,3212,1,2,0,No,0,0.05570456911752397,0.04,0,0
+42,36-45,Male,College,Research & Development,19232,5,22,0,No,0,0.0037978321706179444,0.07,0,0
+59,46-60,Male,College,Human Resources,2267,1,2,0,No,0,0.11188100532114821,0.05,0,0
+50,46-60,Female,Master,Sales,19517,5,7,0,No,0,0.005440363355419426,0.0,0,0
+33,26-35,Male,Bachelor,Research & Development,2436,1,5,1,Yes,1,0.5284341845699561,0.81,1,1
+43,36-45,Female,Bachelor,Sales,16064,4,17,1,No,0,0.029887640372855042,0.02,0,0
+33,26-35,Female,College,Research & Development,2707,1,9,0,Yes,1,0.17572027588710412,0.76,0,1
+52,46-60,Male,Master,Sales,19068,5,33,1,No,0,0.04699735912974471,0.07,0,0
+32,26-35,Female,College,Sales,3931,1,4,0,No,0,0.08874502697065736,0.06,0,0
+32,26-35,Male,Bachelor,Research & Development,3730,1,3,1,Yes,1,0.3085837435824504,0.17,0,0
+39,36-45,Female,Master,Research & Development,2232,1,3,0,No,0,0.11811329733734433,0.07,0,0
+32,26-35,Male,Master,Sales,4465,2,3,0,No,0,0.10727505983538002,0.08,0,0
+41,36-45,Male,College,Research & Development,3072,2,1,0,No,0,0.14847342716492093,0.06,0,0
+40,36-45,Male,College,Research & Development,3319,2,9,0,No,0,0.08148756598227955,0.02,0,0
+45,36-45,Male,Bachelor,Research & Development,19202,5,24,0,No,0,0.01642813905168466,0.02,0,0
+31,26-35,Male,Master,Research & Development,13675,3,2,0,No,0,0.2040762136927251,0.24,0,0
+33,26-35,Female,Master,Research & Development,2911,1,2,0,No,0,0.08740298038846907,0.24,0,0
+34,26-35,Male,Master,Research & Development,5957,2,11,0,No,0,0.07570074363026805,0.03,0,0
+37,36-45,Female,College,Research & Development,3920,1,3,0,No,0,0.08854854229329341,0.01,0,0
+45,36-45,Male,Master,Research & Development,6434,2,3,0,No,0,0.11805143650070983,0.0,0,0
+37,36-45,Male,Bachelor,Research & Development,10048,3,1,0,Yes,1,0.1476447562793088,0.73,0,1
+39,36-45,Female,Master,Research & Development,10938,3,19,0,No,0,0.016487107100432122,0.0,0,0
+29,26-35,Male,Bachelor,Research & Development,2340,1,6,0,No,0,0.08469798425467927,0.02,0,0
+42,36-45,Female,College,Research & Development,6545,2,3,1,No,0,0.30077079758270886,0.06,0,0
+29,26-35,Male,College,Sales,6931,2,3,0,No,0,0.0708942017414409,0.01,0,0
+25,18-25,Female,Bachelor,Research & Development,4898,2,4,0,No,0,0.1569711182531901,0.04,0,0
+42,36-45,Female,Bachelor,Research & Development,2593,1,9,1,No,0,0.11770312048883072,0.04,0,0
+40,36-45,Male,College,Research & Development,19436,5,21,0,No,0,0.020658371358190222,0.08,0,0
+51,46-60,Male,Bachelor,Research & Development,2723,1,1,0,No,0,0.05496993284217651,0.03,0,0
+31,26-35,Male,College,Research & Development,3479,1,5,0,Yes,1,0.1438067712533598,0.68,0,1
+32,26-35,Male,Bachelor,Research & Development,2794,1,5,0,No,0,0.28604557473905295,0.11,0,0
+38,36-45,Male,College,Sales,5249,2,8,0,No,0,0.020597844166819267,0.11,0,0
+32,26-35,Male,Below College,Research & Development,2176,2,6,0,No,0,0.12894910579066646,0.02,0,0
+46,46-60,Female,Bachelor,Sales,16872,4,7,1,No,0,0.05021251690486259,0.02,0,0
+28,26-35,Male,Master,Research & Development,3485,1,0,0,Yes,1,0.3271648496294555,0.76,0,1
+29,26-35,Male,Bachelor,Sales,6644,2,0,0,No,0,0.1956074364784057,0.21,0,0
+31,26-35,Male,Bachelor,Research & Development,5582,2,9,0,No,0,0.14607820918386552,0.04,0,0
+25,18-25,Male,College,Research & Development,4000,2,6,0,No,0,0.271291867333464,0.02,0,0
+45,36-45,Male,College,Research & Development,13496,4,20,1,No,0,0.07202691657125304,0.01,0,0
+36,36-45,Male,Bachelor,Research & Development,3210,1,15,0,No,0,0.008944897959484114,0.09,0,0
+55,46-60,Male,Bachelor,Research & Development,19045,5,36,1,No,0,0.019848086700325118,0.09,0,0
+47,46-60,Male,Master,Research & Development,11849,3,10,1,Yes,1,0.4316891267104016,0.74,0,1
+28,26-35,Male,Bachelor,Research & Development,2070,1,5,0,No,0,0.0811144746077983,0.06,0,0
+37,36-45,Male,Master,Sales,6502,2,5,0,No,0,0.03842484677222689,0.0,0,0
+21,18-25,Male,College,Research & Development,3230,1,3,0,No,0,0.07246218526093347,0.1,0,0
+37,36-45,Female,Master,Research & Development,13603,3,5,1,No,0,0.15908988765855842,0.02,0,0
+35,26-35,Female,Bachelor,Research & Development,11996,3,7,0,No,0,0.18682119254144555,0.08,0,0
+38,36-45,Female,College,Sales,5605,2,8,1,No,0,0.5151098669236815,0.04,1,0
+26,26-35,Female,Bachelor,Research & Development,6397,2,6,0,No,0,0.10851503186886918,0.03,0,0
+50,46-60,Male,Below College,Research & Development,19144,5,10,0,No,0,0.029681750459175524,0.0,0,0
+53,46-60,Male,Master,Research & Development,17584,4,5,1,No,0,0.04891074400722192,0.04,0,0
+42,36-45,Male,Below College,Sales,4907,2,20,0,No,0,0.010009596102609907,0.0,0,0
+29,26-35,Male,College,Sales,4554,2,10,0,No,0,0.06941560766295767,0.02,0,0
+55,46-60,Male,College,Research & Development,5415,2,10,1,No,0,0.11035579439677279,0.1,0,0
+26,26-35,Male,College,Research & Development,4741,2,5,1,No,0,0.7140812299370809,0.05,1,0
+37,36-45,Female,Bachelor,Research & Development,2115,1,17,0,No,0,0.009027469968914667,0.08,0,0
+44,36-45,Male,Bachelor,Research & Development,3161,1,1,1,Yes,1,0.29721921415831976,0.69,0,1
+38,36-45,Male,Master,Research & Development,5745,2,2,0,No,0,0.13766263103369988,0.02,0,0
+26,26-35,Male,Master,Research & Development,2373,1,3,1,Yes,1,0.7536466942641018,0.91,1,1
+28,26-35,Female,College,Research & Development,3310,1,5,0,No,0,0.04487837291069651,0.03,0,0
+49,46-60,Female,Master,Research & Development,18665,5,3,1,No,0,0.20568000970877395,0.02,0,0
+36,36-45,Male,Bachelor,Research & Development,4485,2,8,0,No,0,0.16233421953699947,0.04,0,0
+31,26-35,Female,Bachelor,Sales,2789,1,2,0,No,0,0.1032374830825066,0.29,0,0
+26,26-35,Male,Master,Sales,5828,2,8,1,Yes,1,0.16429354531869306,0.27,0,0
+37,36-45,Male,Bachelor,Research & Development,2326,1,4,1,No,0,0.38668123848848857,0.19,0,0
+42,36-45,Female,Bachelor,Sales,13525,4,20,0,No,0,0.07241307026460707,0.04,0,0
+18,,Male,Bachelor,Research & Development,1420,1,0,0,Yes,1,0.23638633157855315,0.77,0,1
+35,26-35,Male,Bachelor,Sales,8020,3,11,0,No,0,0.061994089489830435,0.01,0,0
+36,36-45,Male,Master,Research & Development,3688,1,1,0,No,0,0.14086080366467055,0.0,0,0
+51,46-60,Male,Bachelor,Research & Development,5482,2,4,0,No,0,0.03546886992373674,0.01,0,0
+41,36-45,Male,Master,Sales,16015,4,22,0,No,0,0.010798051180187538,0.03,0,0
+18,,Female,Bachelor,Sales,1200,1,0,0,No,0,0.1907372999597173,0.65,0,1
+28,26-35,Male,College,Research & Development,5661,2,8,0,No,0,0.2281570881977688,0.01,0,0
+31,26-35,Male,Bachelor,Sales,6929,2,8,0,No,0,0.1079087618228927,0.05,0,0
+39,36-45,Male,Bachelor,Research & Development,9613,3,18,0,No,0,0.011464613238274893,0.01,0,0
+36,36-45,Female,Master,Research & Development,5674,2,9,0,No,0,0.20501366583014022,0.02,0,0
+32,26-35,Male,Bachelor,Sales,5484,2,13,0,No,0,0.041907565149004206,0.01,0,0
+38,36-45,Female,College,Research & Development,12061,3,10,0,No,0,0.09200666697974498,0.05,0,0
+58,46-60,Male,Master,Research & Development,5660,2,5,1,No,0,0.049886091742342716,0.04,0,0
+31,26-35,Male,Master,Research & Development,4821,1,5,1,No,0,0.20850723449527675,0.03,0,0
+31,26-35,Male,Bachelor,Human Resources,6410,2,2,0,No,0,0.27925407738385893,0.15,0,0
+45,36-45,Male,Bachelor,Research & Development,5210,3,24,0,No,0,0.06639099686465609,0.01,0,0
+31,26-35,Male,Master,Research & Development,2695,1,2,1,No,0,0.338550353531593,0.07,0,0
+33,26-35,Female,Master,Research & Development,11878,3,10,0,No,0,0.06982132598872565,0.03,0,0
+39,36-45,Male,Below College,Research & Development,17068,4,21,1,No,0,0.12974067678167817,0.02,0,0
+43,36-45,Female,Master,Research & Development,2455,1,8,0,No,0,0.01563996198492019,0.02,0,0
+49,46-60,Female,College,Research & Development,13964,4,7,1,No,0,0.10142166629787584,0.02,0,0
+52,46-60,Male,Master,Research & Development,4941,2,8,0,Yes,1,0.061926188384055045,0.66,0,1
+27,26-35,Female,Bachelor,Research & Development,2478,1,4,1,No,0,0.4890865004008628,0.42,0,0
+32,26-35,Female,College,Sales,5228,2,13,1,No,0,0.15180340473874185,0.02,0,0
+27,26-35,Male,Bachelor,Sales,4478,2,5,1,No,0,0.23279053877029052,0.08,0,0
+31,26-35,Male,Bachelor,Sales,7547,2,7,0,No,0,0.032513370771531026,0.03,0,0
+32,26-35,Female,Master,Research & Development,5055,2,7,0,No,0,0.181510910395368,0.07,0,0
+28,26-35,Male,Master,Research & Development,3464,1,3,1,Yes,1,0.6342144775110954,0.8,1,1
+30,26-35,Female,College,Research & Development,5775,2,10,0,No,0,0.044650246145687876,0.04,0,0
+31,26-35,Female,College,Research & Development,8943,3,10,0,No,0,0.029500846461398174,0.04,0,0
+39,36-45,Male,College,Research & Development,19272,5,21,0,No,0,0.011859016765726548,0.04,0,0
+39,36-45,Female,College,Sales,5238,2,1,1,Yes,1,0.19514591300717457,0.66,0,1
+33,26-35,Male,Bachelor,Sales,4682,2,7,0,No,0,0.081790532372843,0.02,0,0
+47,46-60,Male,Doctor,Research & Development,18300,5,3,0,No,0,0.013553982641884925,0.02,0,0
+43,36-45,Female,Master,Research & Development,5257,2,9,0,No,0,0.02254110089394177,0.03,0,0
+27,26-35,Male,Below College,Sales,6349,2,5,1,No,0,0.33316208702995004,0.03,0,0
+54,46-60,Female,Master,Research & Development,4869,2,4,0,No,0,0.02067135071493371,0.01,0,0
+43,36-45,Female,Bachelor,Research & Development,9985,3,1,0,No,0,0.21593429184863402,0.04,0,0
+45,36-45,Male,Master,Research & Development,3697,2,10,0,No,0,0.03777189739031857,0.01,0,0
+40,36-45,Male,College,Sales,7457,2,4,1,No,0,0.22226030550319276,0.02,0,0
+29,26-35,Male,Master,Research & Development,2119,1,7,1,Yes,1,0.5506305601136948,0.76,1,1
+29,26-35,Male,Doctor,Research & Development,3983,1,3,0,No,0,0.10712486881477026,0.05,0,0
+30,26-35,Female,Bachelor,Sales,6118,2,10,0,No,0,0.02742251175284949,0.0,0,0
+27,26-35,Female,Master,Sales,6214,2,8,0,No,0,0.101418730090427,0.06,0,0
+37,36-45,Male,College,Research & Development,6347,2,6,0,No,0,0.10131798459087303,0.07,0,0
+38,36-45,Male,College,Research & Development,11510,3,11,1,No,0,0.07129591537675287,0.0,0,0
+31,26-35,Female,Master,Research & Development,7143,3,11,1,No,0,0.14926319735715998,0.04,0,0
+29,26-35,Female,Below College,Sales,8268,2,7,1,No,0,0.19574469804671965,0.05,0,0
+35,26-35,Male,Master,Research & Development,8095,3,16,0,No,0,0.03901801633075185,0.0,0,0
+23,18-25,Male,Below College,Research & Development,2904,1,4,0,No,0,0.26509949071247685,0.2,0,0
+41,36-45,Male,Bachelor,Research & Development,6032,2,5,1,No,0,0.26790023828935033,0.03,0,0
+47,46-60,Male,Below College,Sales,2976,2,0,0,No,0,0.07844997549752322,0.07,0,0
+42,36-45,Female,Doctor,Research & Development,15992,4,1,0,No,0,0.0635666400164873,0.04,0,0
+29,26-35,Male,Bachelor,Sales,4649,2,4,0,No,0,0.08163669169368948,0.0,0,0
+42,36-45,Male,Below College,Human Resources,2696,1,3,1,No,0,0.16099864626572047,0.05,0,0
+32,26-35,Female,Bachelor,Research & Development,2370,1,8,0,No,0,0.11248147742171886,0.02,0,0
+48,46-60,Female,Below College,Sales,12504,3,0,0,No,0,0.1394326494991853,0.12,0,0
+37,36-45,Male,Bachelor,Research & Development,5974,2,7,1,No,0,0.2987685977762237,0.04,0,0
+30,26-35,Female,College,Sales,4736,2,2,1,No,0,0.5116504931434996,0.1,1,0
+26,26-35,Male,Bachelor,Sales,5296,2,8,0,No,0,0.05631322792990828,0.02,0,0
+42,36-45,Male,Master,Research & Development,6781,2,1,0,No,0,0.045462553041205625,0.03,0,0
+21,18-25,Female,Below College,Sales,2174,1,3,1,Yes,1,0.6550731388066438,0.46,1,0
+36,36-45,Female,Doctor,Sales,6653,2,1,0,No,0,0.034141404513188256,0.03,0,0
+36,36-45,Male,Master,Sales,9699,3,13,0,No,0,0.05695733695917783,0.08,0,0
+57,46-60,Male,Master,Research & Development,6755,2,3,0,No,0,0.010752646679227342,0.02,0,0
+40,36-45,Female,Master,Research & Development,2213,1,7,1,No,0,0.12637153719367436,0.18,0,0
+21,18-25,Male,College,Sales,2610,1,3,0,No,0,0.2721027516968802,0.08,0,0
+33,26-35,Female,Bachelor,Sales,2851,1,1,1,Yes,1,0.27101627580780063,0.77,0,1
+37,36-45,Female,Bachelor,Research & Development,3452,1,5,0,No,0,0.10600933912500911,0.06,0,0
+46,46-60,Female,Master,Research & Development,5258,2,1,0,No,0,0.036129403345907675,0.02,0,0
+41,36-45,Male,Bachelor,Sales,9355,2,8,0,Yes,1,0.058703567468777744,0.64,0,1
+50,46-60,Male,Bachelor,Research & Development,10496,3,4,0,No,0,0.016257701375642957,0.06,0,0
+40,36-45,Male,College,Sales,6380,2,6,1,Yes,1,0.24697270383486383,0.65,0,1
+31,26-35,Male,Master,Research & Development,2657,1,2,1,No,0,0.35314961720571103,0.11,0,0
+21,18-25,Female,Bachelor,Sales,2716,1,1,0,Yes,1,0.29614962940026385,0.81,0,1
+29,26-35,Male,Bachelor,Research & Development,2201,1,3,0,No,0,0.23739681806624283,0.1,0,0
+35,26-35,Male,Master,Research & Development,6540,2,1,0,No,0,0.19714765278995355,0.18,0,0
+27,26-35,Male,College,Research & Development,3816,1,5,0,No,0,0.10655121556260447,0.05,0,0
+28,26-35,Male,Master,Sales,5253,2,7,0,No,0,0.09911423420411208,0.03,0,0
+49,46-60,Male,Bachelor,Research & Development,10965,3,5,0,No,0,0.041035478134529575,0.03,0,0
+51,46-60,Female,College,Sales,4936,2,7,0,No,0,0.0225187367121673,0.01,0,0
+36,36-45,Female,Bachelor,Research & Development,2543,1,2,0,No,0,0.05888311557817612,0.02,0,0
+34,26-35,Male,Bachelor,Sales,5304,2,5,1,Yes,1,0.7544277660399206,0.72,1,1
+55,46-60,Female,Bachelor,Research & Development,16659,4,5,1,No,0,0.012939728329254687,0.01,0,0
+24,18-25,Female,Master,Sales,4260,2,5,1,No,0,0.2770598594530422,0.06,0,0
+30,26-35,Male,Below College,Sales,2476,1,1,0,No,0,0.14800736657154068,0.1,0,0
+26,26-35,Male,Below College,Research & Development,3102,1,6,0,Yes,1,0.12316414713935883,0.07,0,0
+22,18-25,Female,Bachelor,Research & Development,2244,1,2,0,No,0,0.41321925882608007,0.19,0,0
+36,36-45,Male,College,Sales,7596,3,10,0,No,0,0.04181823528804893,0.0,0,0
+30,26-35,Male,Bachelor,Research & Development,2285,1,1,1,Yes,1,0.5495530451065159,0.83,1,1
+37,36-45,Female,Bachelor,Research & Development,3034,1,18,0,No,0,0.07658853987537297,0.02,0,0
+40,36-45,Female,College,Sales,5715,2,5,0,No,0,0.06593752322967389,0.01,0,0
+42,36-45,Female,Master,Research & Development,2576,1,5,0,No,0,0.10947751874636533,0.02,0,0
+37,36-45,Male,Master,Research & Development,4197,2,1,1,No,0,0.3426119962967198,0.07,0,0
+43,36-45,Male,Bachelor,Research & Development,14336,4,25,0,No,0,0.0432530504809569,0.05,0,0
+40,36-45,Female,Bachelor,Research & Development,3448,2,1,0,No,0,0.06453380852172037,0.03,0,0
+54,46-60,Male,College,Research & Development,19406,5,4,0,No,0,0.04966762317061478,0.02,0,0
+34,26-35,Female,Master,Sales,6538,2,3,0,No,0,0.16846891183537124,0.03,0,0
+31,26-35,Female,College,Research & Development,4306,2,13,0,No,0,0.13416251333512202,0.11,0,0
+43,36-45,Male,Bachelor,Research & Development,2258,1,3,0,No,0,0.09512228453756742,0.03,0,0
+43,36-45,Female,Master,Research & Development,4522,2,5,1,No,0,0.24213060339022335,0.02,0,0
+25,18-25,Female,College,Sales,4487,2,5,1,No,0,0.3182715743273461,0.16,0,0
+37,36-45,Female,Doctor,Research & Development,4449,2,13,1,No,0,0.255122804378558,0.04,0,0
+31,26-35,Male,College,Research & Development,2218,1,4,0,No,0,0.11566300648136464,0.05,0,0
+39,36-45,Male,Below College,Research & Development,19197,5,21,1,No,0,0.08379768005163181,0.07,0,0
+56,46-60,Female,Bachelor,Sales,13212,4,7,0,No,0,0.02377776532695749,0.04,0,0
+30,26-35,Female,Bachelor,Sales,6577,2,5,0,No,0,0.08073731051151083,0.04,0,0
+41,36-45,Male,Bachelor,Sales,8392,3,10,0,No,0,0.06459772540445324,0.08,0,0
+28,26-35,Male,College,Research & Development,4558,2,10,0,No,0,0.2959745208128553,0.02,0,0
+25,18-25,Male,Bachelor,Research & Development,4031,1,2,0,Yes,1,0.41643748891812515,0.75,0,1
+52,46-60,Male,Bachelor,Research & Development,7969,3,5,1,No,0,0.022795608679187698,0.16,0,0
+45,36-45,Male,College,Research & Development,2654,1,2,0,No,0,0.1057377190453381,0.06,0,0
+52,46-60,Female,College,Research & Development,16555,4,5,0,No,0,0.005511996174033741,0.0,0,0
+42,36-45,Female,College,Research & Development,4556,2,5,0,No,0,0.09585771960303795,0.08,0,0
+30,26-35,Female,Bachelor,Research & Development,6091,2,5,0,No,0,0.03676011050310694,0.01,0,0
+60,46-60,Female,Bachelor,Research & Development,19566,5,29,0,No,0,0.041866654644081264,0.06,0,0
+46,46-60,Female,Bachelor,Research & Development,4810,2,10,0,No,0,0.02760710947651021,0.01,0,0
+42,36-45,Female,Master,Research & Development,4523,2,6,0,No,0,0.02221039556593835,0.03,0,0
+24,18-25,Female,Below College,Sales,3202,1,5,1,Yes,1,0.5239290503295099,0.73,1,1
+34,26-35,Female,College,Sales,2351,1,2,0,Yes,1,0.060246678106144126,0.68,0,1
+38,36-45,Male,College,Research & Development,1702,1,1,1,No,0,0.15468539807855325,0.18,0,0
+40,36-45,Female,Master,Sales,18041,5,20,0,No,0,0.005114067924113129,0.0,0,0
+26,26-35,Female,Bachelor,Research & Development,2886,1,3,0,No,0,0.35190313612180946,0.07,0,0
+30,26-35,Male,Bachelor,Research & Development,2097,1,5,0,No,0,0.14621846115024406,0.08,0,0
+29,26-35,Male,Master,Research & Development,11935,3,10,0,No,0,0.09872537179071446,0.02,0,0
+29,26-35,Female,Doctor,Research & Development,2546,1,2,0,Yes,1,0.24572756882578076,0.74,0,1
+19,18-25,Male,College,Human Resources,2564,1,1,0,Yes,1,0.22308132308419384,0.78,0,1
+30,26-35,Female,Master,Sales,8412,3,9,0,No,0,0.0977766227018346,0.07,0,0
+57,46-60,Male,Bachelor,Sales,14118,4,1,0,No,0,0.030365615372007812,0.03,0,0
+50,46-60,Male,Master,Research & Development,17046,4,27,0,No,0,0.019330840289587484,0.01,0,0
+30,26-35,Female,Bachelor,Research & Development,2564,1,11,0,No,0,0.03962264731759868,0.03,0,0
+60,46-60,Female,Bachelor,Sales,10266,3,18,0,No,0,0.011337947775273471,0.06,0,0
+47,46-60,Female,College,Research & Development,5070,2,5,0,No,0,0.05645672075390098,0.02,0,0
+46,46-60,Male,Bachelor,Research & Development,17861,4,3,0,No,0,0.06749062711534567,0.04,0,0
+35,26-35,Male,Bachelor,Research & Development,4230,1,5,0,No,0,0.06425284409687268,0.02,0,0
+54,46-60,Female,Master,Research & Development,3780,2,1,0,No,0,0.04034353934531035,0.03,0,0
+34,26-35,Male,Master,Research & Development,2768,1,7,0,No,0,0.04805701187440954,0.0,0,0
+46,46-60,Female,Bachelor,Sales,9071,3,3,1,No,0,0.07191937079065057,0.0,0,0
+31,26-35,Male,Below College,Research & Development,10648,3,13,0,No,0,0.027734793400442787,0.01,0,0
+33,26-35,Male,Below College,Research & Development,13610,3,7,1,Yes,1,0.3274106317898598,0.6,0,1
+33,26-35,Male,Below College,Research & Development,3408,1,4,0,Yes,1,0.2572134756439004,0.65,0,1
+30,26-35,Male,Below College,Sales,2983,1,3,0,No,0,0.08621321653002727,0.01,0,0
+35,26-35,Male,Bachelor,Research & Development,7632,3,8,1,No,0,0.22555594029286113,0.06,0,0
+31,26-35,Male,Bachelor,Research & Development,9824,3,1,0,Yes,1,0.24352225696975194,0.81,0,1
+34,26-35,Female,Bachelor,Human Resources,9950,3,3,1,Yes,1,0.7614087036750153,0.72,1,1
+42,36-45,Male,College,Research & Development,2093,1,2,0,No,0,0.08908575932479719,0.03,0,0
+36,36-45,Male,Master,Sales,9980,3,10,0,No,0,0.08559316943013703,0.03,0,0
+22,18-25,Male,Below College,Research & Development,3894,1,2,0,Yes,1,0.21097544688354114,0.65,0,1
+48,46-60,Female,Doctor,Sales,4051,2,9,0,No,0,0.018687673667166328,0.02,0,0
+55,46-60,Female,Doctor,Sales,16835,4,10,0,No,0,0.008819629970638185,0.01,0,0
+41,36-45,Male,College,Sales,6230,2,14,0,No,0,0.05837663322644636,0.0,0,0
+35,26-35,Male,Bachelor,Sales,4717,2,11,0,No,0,0.12379908436247383,0.06,0,0
+40,36-45,Female,Bachelor,Research & Development,13237,4,20,0,No,0,0.06562075527375082,0.04,0,0
+39,36-45,Female,Below College,Research & Development,3755,1,8,0,No,0,0.055151223545917234,0.06,0,0
+31,26-35,Male,Below College,Sales,6582,2,6,1,No,0,0.22792410245171454,0.08,0,0
+42,36-45,Male,Bachelor,Research & Development,7406,3,10,1,No,0,0.20054705265202638,0.06,0,0
+45,36-45,Male,Bachelor,Sales,4805,2,8,0,No,0,0.01256438402235143,0.0,0,0
+26,26-35,Female,Master,Human Resources,2741,1,7,1,Yes,1,0.44509576962349356,0.68,0,1
+29,26-35,Male,Bachelor,Research & Development,4262,2,3,0,No,0,0.08752623762883951,0.02,0,0
+33,26-35,Female,Doctor,Research & Development,16184,4,6,0,No,0,0.11700405489469654,0.08,0,0
+31,26-35,Male,Bachelor,Sales,11557,3,5,0,No,0,0.13702164748068915,0.07,0,0
+18,,Male,Bachelor,Sales,1878,1,0,1,Yes,1,0.7220574478958025,0.93,1,1
+40,36-45,Male,Bachelor,Sales,10932,3,1,0,No,0,0.12035215554287257,0.08,0,0
+41,36-45,Female,Master,Research & Development,6811,2,8,1,No,0,0.18229011487813332,0.09,0,0
+26,26-35,Male,College,Sales,4306,2,0,0,No,0,0.47552151029845724,0.12,0,0
+35,26-35,Female,Bachelor,Sales,4859,2,5,0,No,0,0.09117349649335811,0.04,0,0
+34,26-35,Male,Master,Sales,5337,2,10,0,No,0,0.03962790263347091,0.0,0,0
+26,26-35,Male,Bachelor,Research & Development,2340,1,1,1,Yes,1,0.6653570957079399,0.95,1,1
+37,36-45,Female,Bachelor,Research & Development,7491,3,6,0,No,0,0.030348788812045217,0.06,0,0
+46,46-60,Female,Below College,Research & Development,10527,3,2,0,No,0,0.06680024684571716,0.21,0,0
+41,36-45,Female,Doctor,Sales,16595,4,18,0,No,0,0.029437913966844767,0.02,0,0
+37,36-45,Male,Master,Sales,8834,3,9,0,No,0,0.10684225855468851,0.07,0,0
+52,46-60,Male,College,Research & Development,5577,2,10,1,No,0,0.07180002473725047,0.03,0,0
+32,26-35,Male,Master,Sales,4707,2,4,0,Yes,1,0.1985721002435153,0.66,0,1
+24,18-25,Male,Bachelor,Sales,2400,1,2,0,No,0,0.11530845352743212,0.06,0,0
+38,36-45,Female,Bachelor,Research & Development,9824,2,1,0,No,0,0.03534784850591297,0.13,0,0
+37,36-45,Female,Master,Research & Development,6447,2,6,0,No,0,0.1772010871391173,0.04,0,0
+49,46-60,Male,Master,Research & Development,19502,5,31,1,No,0,0.02875903612524406,0.02,0,0
+24,18-25,Male,Bachelor,Research & Development,2725,1,6,1,No,0,0.49974355161259265,0.53,0,1
+26,26-35,Male,College,Sales,6272,2,5,0,No,0,0.266557245557433,0.12,0,0
+24,18-25,Male,College,Research & Development,2127,1,1,0,No,0,0.2159166528302155,0.66,0,1
+50,46-60,Male,Bachelor,Human Resources,18200,5,32,0,No,0,0.033427497042110586,0.11,0,0
+25,18-25,Male,Below College,Sales,2096,1,7,0,No,0,0.2095590640244116,0.09,0,0
+24,18-25,Female,Bachelor,Research & Development,2886,1,6,1,Yes,1,0.5130118130165288,0.86,1,1
+30,26-35,Male,Master,Sales,2033,1,1,0,Yes,1,0.27726717368102,0.87,0,1
+34,26-35,Male,College,Research & Development,3622,1,6,1,No,0,0.21233230399084152,0.04,0,0
+31,26-35,Male,Master,Sales,4233,2,3,0,Yes,1,0.3985046022420368,0.69,0,1
+35,26-35,Male,College,Research & Development,3681,2,3,0,No,0,0.23288246921571013,0.21,0,0
+31,26-35,Male,Master,Sales,5460,2,7,0,No,0,0.058007334284445974,0.08,0,0
+27,26-35,Female,Master,Research & Development,2187,1,5,0,No,0,0.18648116518545926,0.02,0,0
+37,36-45,Male,Bachelor,Sales,9602,2,3,1,No,0,0.19550638923146071,0.1,0,0
+20,18-25,Female,Bachelor,Research & Development,2836,1,1,0,No,0,0.1404917972331796,0.22,0,0
+42,36-45,Female,Master,Research & Development,4089,2,10,0,No,0,0.029722609009169176,0.01,0,0
+43,36-45,Male,Master,Research & Development,16627,4,1,1,No,0,0.14790465536769606,0.02,0,0
+38,36-45,Female,Below College,Research & Development,2619,1,0,0,No,0,0.13791013154683066,0.03,0,0
+43,36-45,Male,Doctor,Research & Development,5679,2,8,1,No,0,0.11530536602739527,0.01,0,0
+48,46-60,Female,Master,Research & Development,15402,4,3,0,No,0,0.05135554504180503,0.03,0,0
+44,36-45,Female,Master,Human Resources,5985,2,2,0,No,0,0.07024655957941586,0.04,0,0
+34,26-35,Female,Bachelor,Sales,2579,1,8,1,No,0,0.2997079367758659,0.18,0,0
+27,26-35,Male,Below College,Sales,3041,1,4,0,Yes,1,0.14565743946095686,0.62,0,1
+21,18-25,Male,Below College,Sales,3447,1,3,0,No,0,0.26157032581868,0.12,0,0
+44,36-45,Male,Master,Research & Development,19513,5,2,1,No,0,0.024340300357172794,0.07,0,0
+22,18-25,Male,Below College,Research & Development,2773,1,2,0,No,0,0.2193179503362171,0.01,0,0
+33,26-35,Male,Master,Sales,7104,2,5,0,No,0,0.08973832427779474,0.02,0,0
+32,26-35,Female,Master,Research & Development,6322,2,6,1,No,0,0.4214319335199634,0.05,0,0
+30,26-35,Female,Bachelor,Research & Development,2083,1,1,0,No,0,0.1069104180351742,0.17,0,0
+53,46-60,Female,Below College,Sales,8381,2,14,0,No,0,0.019117170973067876,0.01,0,0
+34,26-35,Male,Doctor,Research & Development,2691,1,10,0,No,0,0.04804201640586726,0.0,0,0
+45,36-45,Female,Master,Sales,4286,2,1,0,Yes,1,0.2562064246460125,0.64,0,1
+26,26-35,Female,Bachelor,Research & Development,2659,1,3,1,No,0,0.31556817161852185,0.18,0,0
+37,36-45,Male,Bachelor,Research & Development,9434,3,10,0,No,0,0.03230860799586156,0.04,0,0
+29,26-35,Female,College,Sales,5561,2,6,0,No,0,0.1568090488423286,0.03,0,0
+35,26-35,Male,Master,Research & Development,6646,2,17,0,No,0,0.026461572109680215,0.0,0,0
+33,26-35,Male,Bachelor,Research & Development,7725,2,13,0,No,0,0.04050284545544921,0.03,0,0
+54,46-60,Male,Master,Human Resources,10725,3,9,0,No,0,0.018957404140712793,0.03,0,0
+36,36-45,Male,College,Research & Development,8847,2,3,1,No,0,0.34576311715108826,0.06,0,0
+27,26-35,Male,Master,Research & Development,2045,1,4,0,No,0,0.17034642549947265,0.01,0,0
+20,18-25,Male,Below College,Research & Development,1009,1,1,1,Yes,1,0.47686148306966253,0.87,0,1
+33,26-35,Male,Bachelor,Research & Development,3348,1,10,1,Yes,1,0.43770286819895,0.31,0,0
+35,26-35,Male,Bachelor,Research & Development,1281,1,1,0,No,0,0.09815144740433347,0.05,0,0
+23,18-25,Male,Bachelor,Research & Development,2819,1,3,0,No,0,0.3194740346935327,0.13,0,0
+25,18-25,Male,Bachelor,Sales,4851,2,3,0,No,0,0.08918617727216402,0.0,0,0
+38,36-45,Female,Master,Sales,4028,2,7,0,No,0,0.014752760337791862,0.01,0,0
+29,26-35,Male,Master,Research & Development,2720,1,10,0,No,0,0.047677074865639164,0.02,0,0
+48,46-60,Male,Below College,Sales,8120,2,2,0,No,0,0.05356740116902485,0.02,0,0
+27,26-35,Female,Below College,Sales,4647,2,6,1,No,0,0.12622013919146677,0.01,0,0
+37,36-45,Male,College,Research & Development,4680,1,1,0,No,0,0.06436175056493071,0.03,0,0
+50,46-60,Male,Below College,Research & Development,3221,1,20,1,No,0,0.10167902009524722,0.08,0,0
+34,26-35,Female,Bachelor,Research & Development,8621,3,8,0,No,0,0.02614593666469002,0.02,0,0
+24,18-25,Female,College,Sales,4577,2,2,0,Yes,1,0.4435301799516154,0.15,0,0
+39,36-45,Female,Master,Research & Development,4553,2,20,0,No,0,0.01677620519804716,0.02,0,0
+32,26-35,Male,Bachelor,Sales,5396,2,10,0,No,0,0.044017328415127135,0.02,0,0
+50,46-60,Male,College,Sales,6796,2,4,1,Yes,1,0.12107819381740403,0.64,0,1
+38,36-45,Female,Master,Research & Development,7625,2,9,0,No,0,0.02842642681590248,0.0,0,0
+27,26-35,Female,College,Research & Development,7412,3,9,0,No,0,0.08310960806645082,0.12,0,0
+32,26-35,Female,College,Research & Development,11159,3,7,0,No,0,0.023011477119272258,0.02,0,0
+47,46-60,Male,Master,Sales,4960,2,7,0,No,0,0.02697246839188909,0.02,0,0
+40,36-45,Male,Master,Sales,10475,3,18,1,No,0,0.10287268145255578,0.03,0,0
+53,46-60,Male,Bachelor,Research & Development,14814,4,5,0,No,0,0.00803232219610201,0.0,0,0
+41,36-45,Male,Master,Human Resources,19141,5,21,0,No,0,0.03921871495772231,0.01,0,0
+60,46-60,Male,Master,Sales,5405,2,2,0,No,0,0.22015382024769434,0.04,0,0
+27,26-35,Male,College,Research & Development,8793,3,9,0,No,0,0.0899115832824775,0.02,0,0
+41,36-45,Male,Bachelor,Human Resources,19189,5,22,0,No,0,0.010209162826888727,0.04,0,0
+50,46-60,Male,Master,Sales,3875,1,2,0,No,0,0.09214458845633895,0.01,0,0
+28,26-35,Female,College,Research & Development,2216,1,7,1,Yes,1,0.5844515361539967,0.8,1,1
+36,36-45,Female,Bachelor,Research & Development,11713,3,8,0,No,0,0.2853799518281129,0.08,0,0
+38,36-45,Female,Bachelor,Research & Development,7861,3,1,1,No,0,0.16210081594108622,0.06,0,0
+44,36-45,Male,Bachelor,Research & Development,3708,1,5,0,No,0,0.14661569565152216,0.2,0,0
+47,46-60,Female,Bachelor,Sales,13770,4,22,1,No,0,0.19231974417117786,0.06,0,0
+30,26-35,Male,Doctor,Sales,5304,2,8,0,No,0,0.1993996865588994,0.04,0,0
+29,26-35,Male,Bachelor,Sales,2642,1,1,0,No,0,0.1414887965112237,0.15,0,0
+42,36-45,Male,Bachelor,Research & Development,2759,1,2,1,Yes,1,0.454899090672397,0.26,0,0
+43,36-45,Male,Bachelor,Sales,6804,2,2,0,No,0,0.031022883563977047,0.02,0,0
+34,26-35,Female,College,Research & Development,6142,2,5,0,No,0,0.12882775827045292,0.01,0,0
+23,18-25,Male,Below College,Research & Development,2500,1,4,0,No,0,0.2519660455763967,0.01,0,0
+39,36-45,Female,Bachelor,Human Resources,6389,2,8,0,No,0,0.23043920799707077,0.15,0,0
+56,46-60,Male,Bachelor,Research & Development,11103,4,10,0,No,0,0.014410127347649057,0.07,0,0
+40,36-45,Female,Below College,Research & Development,2342,1,4,1,No,0,0.11504470705823741,0.06,0,0
+27,26-35,Female,Bachelor,Research & Development,6811,2,7,0,No,0,0.2865436558785772,0.1,0,0
+29,26-35,Male,Bachelor,Sales,2297,1,2,0,No,0,0.13202499014792063,0.12,0,0
+53,46-60,Male,Bachelor,Research & Development,2450,2,2,0,No,0,0.008336180914327128,0.03,0,0
+35,26-35,Female,Master,Research & Development,5093,2,1,0,No,0,0.04528334638833967,0.09,0,0
+32,26-35,Male,Master,Research & Development,5309,2,10,0,No,0,0.12059192935377509,0.08,0,0
+38,36-45,Male,Doctor,Research & Development,3057,1,1,1,No,0,0.5181948090571866,0.37,1,0
+34,26-35,Female,Doctor,Research & Development,5121,2,0,0,No,0,0.21665275600875558,0.02,0,0
+52,46-60,Male,Master,Sales,16856,4,34,0,No,0,0.012552328903618829,0.01,0,0
+33,26-35,Male,Master,Research & Development,2686,1,10,1,Yes,1,0.11208515795376041,0.15,0,0
+25,18-25,Female,Below College,Sales,6180,2,6,0,No,0,0.10385472265153295,0.07,0,0
+45,36-45,Male,College,Sales,6632,2,8,0,No,0,0.026601195678730368,0.0,0,0
+23,18-25,Male,Below College,Research & Development,3505,1,2,0,No,0,0.2733679468957118,0.15,0,0
+47,46-60,Female,College,Sales,6397,2,5,1,Yes,1,0.3593055966177022,0.76,0,1
+34,26-35,Male,Bachelor,Sales,6274,2,6,0,No,0,0.020183077351481227,0.02,0,0
+55,46-60,Male,Bachelor,Research & Development,19859,5,5,1,Yes,1,0.060804362318363725,0.63,0,1
+36,36-45,Male,Master,Sales,7587,3,10,0,No,0,0.15480903422052242,0.06,0,0
+52,46-60,Male,Master,Research & Development,4258,1,4,0,No,0,0.018914158438463592,0.06,0,0
+26,26-35,Female,College,Research & Development,4364,1,2,0,No,0,0.16438524474118424,0.07,0,0
+29,26-35,Female,Bachelor,Research & Development,4335,2,8,0,No,0,0.2345221388326021,0.13,0,0
+26,26-35,Male,Bachelor,Sales,5326,2,4,0,Yes,1,0.307459735750668,0.74,0,1
+34,26-35,Female,Master,Research & Development,3280,1,4,0,No,0,0.0614351167819779,0.02,0,0
+54,46-60,Female,Master,Research & Development,5485,2,5,1,No,0,0.36510387209992573,0.03,0,0
+27,26-35,Male,Below College,Sales,4342,2,4,0,No,0,0.07203494021953996,0.02,0,0
+37,36-45,Female,Below College,Research & Development,2782,1,5,1,No,0,0.31124409428916106,0.16,0,0
+38,36-45,Female,Master,Research & Development,5980,2,15,1,No,0,0.4936339614309323,0.09,0,0
+34,26-35,Female,Master,Research & Development,4381,1,6,0,No,0,0.08572571663030916,0.01,0,0
+35,26-35,Female,Master,Sales,2572,1,3,0,No,0,0.16676053301178703,0.1,0,0
+30,26-35,Male,Bachelor,Research & Development,3833,1,2,0,No,0,0.06446290773329448,0.08,0,0
+40,36-45,Female,College,Research & Development,4244,2,8,0,No,0,0.03245832535957969,0.02,0,0
+34,26-35,Female,College,Sales,6500,2,3,0,No,0,0.1981447041571912,0.07,0,0
+42,36-45,Male,Bachelor,Research & Development,18430,5,24,0,No,0,0.023118568620792732,0.03,0,0
+23,18-25,Male,Bachelor,Research & Development,1601,1,0,1,Yes,1,0.6365727567576599,0.89,1,1
+24,18-25,Male,Bachelor,Research & Development,2694,1,1,0,No,0,0.24148913246938844,0.23,0,0
+52,46-60,Female,Master,Research & Development,3149,2,5,0,No,0,0.05425274849824747,0.01,0,0
+50,46-60,Male,Bachelor,Research & Development,17639,4,4,0,No,0,0.0087596706929774,0.02,0,0
+29,26-35,Female,College,Research & Development,2319,1,1,1,Yes,1,0.6331583689070267,0.84,1,1
+33,26-35,Male,Bachelor,Research & Development,11691,3,13,0,No,0,0.019361465761914658,0.01,0,0
+33,26-35,Female,Bachelor,Sales,5324,2,3,0,Yes,1,0.40318913423648817,0.78,0,1
+47,46-60,Female,College,Research & Development,16752,4,26,1,No,0,0.01999117216039932,0.01,0,0
+36,36-45,Female,Bachelor,Research & Development,5228,2,9,0,No,0,0.035241971932321176,0.01,0,0
+29,26-35,Male,College,Research & Development,2700,1,10,0,No,0,0.08794621832510108,0.05,0,0
+58,46-60,Male,Master,Research & Development,19246,5,31,1,Yes,1,0.016037186950849547,0.69,0,1
+35,26-35,Female,Master,Research & Development,2506,1,2,0,No,0,0.059748569929743936,0.05,0,0
+42,36-45,Female,College,Research & Development,6062,2,4,1,No,0,0.18449890117236034,0.05,0,0
+28,26-35,Male,Master,Research & Development,4382,1,2,0,Yes,1,0.213694288179438,0.75,0,1
+36,36-45,Male,Bachelor,Human Resources,2143,1,5,0,No,0,0.18345976188678273,0.0,0,0
+32,26-35,Female,Bachelor,Research & Development,6162,2,14,0,No,0,0.020094940950215624,0.01,0,0
+40,36-45,Male,Master,Research & Development,5094,2,1,0,No,0,0.21841153593747997,0.14,0,0
+30,26-35,Female,Bachelor,Research & Development,6877,2,0,1,No,0,0.26141809503517144,0.21,0,0
+45,36-45,Female,Bachelor,Research & Development,2274,1,1,0,No,0,0.07390379667539196,0.23,0,0
+42,36-45,Male,Bachelor,Research & Development,4434,2,9,0,No,0,0.13770003863864078,0.05,0,0
+38,36-45,Male,Bachelor,Research & Development,6288,2,4,0,No,0,0.22091603037675064,0.05,0,0
+34,26-35,Female,Master,Research & Development,2553,1,5,0,No,0,0.07255968759644664,0.05,0,0
+49,46-60,Female,Bachelor,Sales,7654,3,9,0,Yes,1,0.009219980460682524,0.71,0,1
+55,46-60,Male,Below College,Sales,5160,2,9,0,Yes,1,0.01826095120020194,0.64,0,1
+43,36-45,Male,College,Research & Development,17159,4,4,0,No,0,0.08805586508753659,0.01,0,0
+27,26-35,Male,Below College,Research & Development,12808,3,9,1,No,0,0.12355249646943085,0.05,0,0
+35,26-35,Male,Bachelor,Research & Development,10221,3,8,0,No,0,0.026722989739781308,0.01,0,0
+28,26-35,Female,Master,Sales,4779,2,8,1,No,0,0.3000981444901817,0.06,0,0
+34,26-35,Male,College,Human Resources,3737,1,3,0,No,0,0.09025268900583763,0.0,0,0
+26,26-35,Female,College,Research & Development,2366,1,8,1,Yes,1,0.24192912099660524,0.78,0,1
+27,26-35,Male,Bachelor,Research & Development,1706,1,0,0,No,0,0.0963799762640017,0.11,0,0
+51,46-60,Female,Master,Sales,16307,4,20,0,No,0,0.043781645249286155,0.04,0,0
+44,36-45,Male,Bachelor,Research & Development,5933,2,5,0,No,0,0.1534876570539226,0.07,0,0
+25,18-25,Male,Below College,Research & Development,3424,1,4,0,No,0,0.5873924169552251,0.15,1,0
+33,26-35,Male,Bachelor,Sales,4037,2,9,0,No,0,0.10568685755467237,0.05,0,0
+35,26-35,Female,Below College,Research & Development,2559,1,6,0,No,0,0.22252329470598223,0.11,0,0
+36,36-45,Male,College,Sales,6201,2,18,1,No,0,0.0952817365772862,0.03,0,0
+32,26-35,Male,Master,Sales,4403,2,5,0,No,0,0.16459989466386024,0.04,0,0
+30,26-35,Male,Master,Research & Development,3761,1,5,0,No,0,0.26208289286871933,0.08,0,0
+53,46-60,Female,College,Sales,10934,3,5,1,No,0,0.07224865724184588,0.07,0,0
+45,36-45,Male,Bachelor,Sales,10761,3,5,1,No,0,0.15409309441160515,0.09,0,0
+32,26-35,Female,College,Research & Development,5175,2,5,0,No,0,0.145264778598898,0.04,0,0
+52,46-60,Female,Master,Research & Development,13826,4,9,0,No,0,0.005358623012971874,0.0,0,0
+37,36-45,Male,Master,Sales,6334,2,1,0,No,0,0.08638221543150756,0.03,0,0
+28,26-35,Male,College,Human Resources,4936,1,5,0,No,0,0.10814986711592067,0.02,0,0
+22,18-25,Male,College,Research & Development,4775,2,2,0,No,0,0.20201973609360524,0.07,0,0
+44,36-45,Male,Master,Research & Development,2818,1,3,1,No,0,0.29778474477843364,0.16,0,0
+42,36-45,Male,Below College,Research & Development,2515,1,2,1,No,0,0.30889882187069956,0.03,0,0
+36,36-45,Male,Bachelor,Human Resources,2342,1,5,0,No,0,0.17178192322544267,0.02,0,0
+25,18-25,Male,Below College,Sales,4194,2,5,1,No,0,0.4746024655370488,0.04,0,0
+35,26-35,Female,Bachelor,Research & Development,10685,3,17,1,No,0,0.04097064828715922,0.02,0,0
+35,26-35,Female,Master,Research & Development,2022,1,10,1,Yes,1,0.4213069329454486,0.76,0,1
+32,26-35,Male,Bachelor,Research & Development,2314,1,3,0,No,0,0.05212594597071353,0.06,0,0
+25,18-25,Male,Below College,Sales,4256,2,5,0,No,0,0.1793132255815334,0.04,0,0
+49,46-60,Female,Bachelor,Research & Development,3580,1,4,0,No,0,0.05628722553026004,0.02,0,0
+24,18-25,Male,Below College,Research & Development,3162,1,5,0,No,0,0.20212764449493859,0.03,0,0
+32,26-35,Male,College,Sales,6524,2,10,0,No,0,0.07792513785192273,0.04,0,0
+38,36-45,Male,Bachelor,Sales,2899,1,2,0,No,0,0.11539638960531419,0.02,0,0
+42,36-45,Female,Bachelor,Research & Development,5231,2,5,1,No,0,0.11584647166284302,0.04,0,0
+31,26-35,Male,Master,Research & Development,2356,1,6,1,No,0,0.22630222454275645,0.21,0,0
+29,26-35,Female,Bachelor,Sales,2800,1,3,1,Yes,1,0.516799255670538,0.41,1,0
+53,46-60,Male,Bachelor,Sales,11836,4,2,0,No,0,0.025928660686607135,0.04,0,0
+35,26-35,Male,Bachelor,Research & Development,10903,3,13,0,No,0,0.04975406872861574,0.05,0,0
+37,36-45,Female,College,Sales,2973,1,5,0,No,0,0.08554034291911737,0.03,0,0
+53,46-60,Female,Master,Research & Development,14275,4,12,0,No,0,0.006103692968655687,0.03,0,0
+43,36-45,Female,Bachelor,Research & Development,5562,2,5,0,No,0,0.032202271383989,0.01,0,0
+47,46-60,Female,College,Sales,4537,2,7,1,No,0,0.05073296957070295,0.02,0,0
+37,36-45,Male,College,Sales,7642,3,10,1,No,0,0.6296267458536136,0.09,1,0
+50,46-60,Male,Master,Research & Development,17924,4,31,0,No,0,0.03712191921461558,0.01,0,0
+39,36-45,Female,Bachelor,Human Resources,5204,2,5,0,No,0,0.044157719105702944,0.02,0,0
+33,26-35,Male,College,Human Resources,2277,1,4,1,No,0,0.23169955496995615,0.52,0,1
+32,26-35,Male,Master,Research & Development,2795,1,1,1,Yes,1,0.7476718198871825,0.86,1,1
+29,26-35,Female,Below College,Research & Development,2532,1,4,0,No,0,0.19117612495363212,0.06,0,0
+44,36-45,Male,College,Research & Development,2559,1,8,1,No,0,0.3383779699431661,0.07,0,0
+28,26-35,Male,Master,Sales,4908,2,4,0,No,0,0.1579535285636679,0.02,0,0
+58,46-60,Male,Below College,Research & Development,2380,1,1,1,Yes,1,0.23775351056442437,0.75,0,1
+43,36-45,Female,Bachelor,Research & Development,4765,2,1,0,No,0,0.15371072939726238,0.07,0,0
+20,18-25,Female,Bachelor,Sales,2044,1,2,0,Yes,1,0.18206476474417668,0.7,0,1
+21,18-25,Female,Below College,Research & Development,2693,1,1,0,Yes,1,0.16501305941572467,0.49,0,0
+36,36-45,Male,Below College,Research & Development,6586,2,16,1,No,0,0.13565080599041784,0.09,0,0
+47,46-60,Female,Master,Sales,3294,1,3,1,No,0,0.09735811247046397,0.13,0,0
+22,18-25,Female,Below College,Research & Development,4171,2,3,1,Yes,1,0.3231883874415006,0.73,0,1
+41,36-45,Female,Master,Research & Development,2778,1,7,1,Yes,1,0.22337747014244738,0.64,0,1
+28,26-35,Female,Bachelor,Research & Development,2377,1,2,0,No,0,0.16398990232425922,0.24,0,0
+39,36-45,Male,Bachelor,Research & Development,2404,1,2,1,Yes,1,0.5889348718698514,0.82,1,1
+27,26-35,Female,Bachelor,Research & Development,2318,1,1,0,No,0,0.15832965610041347,0.3,0,0
+34,26-35,Male,Bachelor,Research & Development,2008,1,1,0,No,0,0.2269907378282739,0.43,0,0
+42,36-45,Female,College,Sales,6244,2,5,0,No,0,0.069977893495425,0.01,0,0
+33,26-35,Male,Master,Research & Development,2799,1,3,1,No,0,0.5067393379771719,0.11,1,0
+58,46-60,Female,Bachelor,Research & Development,10552,3,6,1,No,0,0.05627692000246525,0.01,0,0
+31,26-35,Male,Master,Sales,2329,1,7,0,No,0,0.06874115402222745,0.03,0,0
+35,26-35,Female,Below College,Research & Development,4014,2,10,1,No,0,0.21052968004704625,0.09,0,0
+49,46-60,Female,College,Research & Development,7403,3,26,0,No,0,0.061200981322348885,0.06,0,0
+48,46-60,Male,Master,Research & Development,2259,1,0,0,No,0,0.07180410331269518,0.04,0,0
+31,26-35,Female,College,Sales,6932,2,9,0,No,0,0.06043602502437024,0.01,0,0
+36,36-45,Male,Master,Research & Development,4678,1,6,0,No,0,0.06621156647451135,0.02,0,0
+38,36-45,Female,Bachelor,Research & Development,13582,3,15,0,No,0,0.01395791558931674,0.03,0,0
+32,26-35,Female,Bachelor,Research & Development,2332,1,3,0,No,0,0.1944120711783099,0.03,0,0
+25,18-25,Male,College,Sales,2413,1,1,1,Yes,1,0.6518467293494747,0.97,1,1
+40,36-45,Male,Master,Sales,9705,3,1,0,No,0,0.19736975470056453,0.36,0,0
+26,26-35,Male,Bachelor,Sales,4294,2,7,0,No,0,0.11921488086834608,0.0,0,0
+41,36-45,Male,Bachelor,Research & Development,4721,1,18,1,No,0,0.0847812509605444,0.04,0,0
+36,36-45,Male,Master,Research & Development,2519,1,11,0,No,0,0.031550067209758816,0.03,0,0
+19,18-25,Male,Bachelor,Sales,2121,1,1,1,Yes,1,0.592664800776506,0.84,1,1
+20,18-25,Male,Bachelor,Research & Development,2973,1,1,0,Yes,1,0.4776766203698825,0.73,0,1
+31,26-35,Female,Bachelor,Research & Development,5855,2,9,1,No,0,0.1801943315851034,0.09,0,0
+40,36-45,Male,Master,Research & Development,3617,1,1,1,No,0,0.5163052849155141,0.05,1,0
+32,26-35,Female,Master,Research & Development,6725,2,8,0,No,0,0.05638230812852299,0.04,0,0
+36,36-45,Male,Below College,Sales,10325,3,16,1,Yes,1,0.07736866851242215,0.66,0,1
+33,26-35,Female,Bachelor,Research & Development,6949,2,5,0,No,0,0.06432109896758033,0.01,0,0
+37,36-45,Male,Master,Sales,10609,3,14,0,Yes,1,0.26650812247910094,0.76,0,1
+45,36-45,Male,College,Research & Development,4447,2,9,0,No,0,0.04226082368760672,0.02,0,0
+29,26-35,Female,Bachelor,Sales,2157,1,3,0,No,0,0.11199784870156226,0.15,0,0
+35,26-35,Female,Bachelor,Sales,4601,2,5,0,No,0,0.0953515023344804,0.05,0,0
+52,46-60,Male,College,Research & Development,17099,4,9,0,No,0,0.003185494458361208,0.0,0,0
+58,46-60,Male,Bachelor,Research & Development,2479,1,1,0,Yes,1,0.02014555987904169,0.11,0,0
+53,46-60,Male,College,Sales,14852,4,17,0,No,0,0.006310538847242504,0.02,0,0
+30,26-35,Male,College,Sales,7264,3,8,0,No,0,0.10413778540741271,0.08,0,0
+38,36-45,Female,Bachelor,Sales,5666,2,5,1,No,0,0.18291489890217655,0.04,0,0
+35,26-35,Male,Master,Sales,7823,3,10,0,No,0,0.03193784632239557,0.07,0,0
+39,36-45,Male,Doctor,Sales,7880,3,8,0,No,0,0.04634655253979836,0.01,0,0
+40,36-45,Female,Bachelor,Sales,13194,4,1,1,Yes,1,0.38766937957715164,0.71,0,1
+47,46-60,Male,Master,Research & Development,5067,2,19,1,No,0,0.0576646755281156,0.03,0,0
+36,36-45,Male,Master,Sales,5079,2,7,0,No,0,0.0849213729048514,0.03,0,0
+31,26-35,Male,College,Research & Development,2321,1,3,1,Yes,1,0.4748587303659205,0.29,0,0
+33,26-35,Male,Bachelor,Sales,17444,4,10,0,No,0,0.030730099684997497,0.06,0,0
+29,26-35,Female,Bachelor,Research & Development,2404,1,0,1,Yes,1,0.5773376105639196,0.69,1,1
+33,26-35,Female,Below College,Research & Development,3452,1,3,0,No,0,0.10894902046256337,0.02,0,0
+45,36-45,Female,Master,Research & Development,2270,1,5,0,No,0,0.02266571804652943,0.03,0,0
+50,46-60,Male,College,Research & Development,17399,4,5,0,No,0,0.009365094935285015,0.0,0,0
+33,26-35,Female,Master,Research & Development,5488,2,6,1,No,0,0.23951910331753348,0.03,0,0
+41,36-45,Male,Bachelor,Research & Development,19419,5,18,0,No,0,0.010912185114362377,0.01,0,0
+27,26-35,Female,Master,Research & Development,2811,1,2,0,No,0,0.43558133058374177,0.08,0,0
+45,36-45,Male,College,Research & Development,3633,2,9,1,No,0,0.21088289142614816,0.03,0,0
+47,46-60,Female,College,Sales,4163,2,9,1,No,0,0.10461612956527615,0.07,0,0
+30,26-35,Female,Bachelor,Research & Development,2132,1,5,1,Yes,1,0.7236568741160636,0.85,1,1
+50,46-60,Male,Bachelor,Research & Development,13973,4,12,1,No,0,0.03997629565011196,0.01,0,0
+38,36-45,Male,Below College,Research & Development,2684,1,2,0,No,0,0.11594960391194058,0.05,0,0
+46,46-60,Male,College,Research & Development,10845,3,8,0,No,0,0.02512821111519714,0.05,0,0
+24,18-25,Female,Below College,Research & Development,4377,2,4,0,No,0,0.09111004596673945,0.05,0,0
+35,26-35,Male,Master,Research & Development,3743,1,4,1,Yes,1,0.5233823954376561,0.73,1,1
+31,26-35,Female,Below College,Research & Development,4148,2,4,0,No,0,0.13296989833029618,0.02,0,0
+18,,Male,College,Research & Development,1051,1,0,0,No,0,0.2546867338543005,0.16,0,0
+54,46-60,Female,Bachelor,Research & Development,10739,3,10,0,No,0,0.02883898148851002,0.05,0,0
+35,26-35,Female,Master,Research & Development,10388,3,16,1,No,0,0.20031653356021828,0.18,0,0
+30,26-35,Female,College,Research & Development,11416,3,8,1,No,0,0.35373816069533665,0.06,0,0
+20,18-25,Female,Bachelor,Research & Development,2600,1,1,1,Yes,1,0.6128755633001394,0.96,1,1
+30,26-35,Female,Bachelor,Research & Development,2422,1,3,0,Yes,1,0.13363400270744402,0.1,0,0
+26,26-35,Male,College,Research & Development,5472,2,8,0,No,0,0.035059795842063736,0.02,0,0
+22,18-25,Male,Below College,Research & Development,2451,1,4,0,No,0,0.38122041092082026,0.07,0,0
+48,46-60,Male,Bachelor,Research & Development,4240,2,2,0,No,0,0.0544174417250623,0.05,0,0
+48,46-60,Male,Master,Research & Development,10999,3,15,0,No,0,0.013929140123212558,0.01,0,0
+41,36-45,Female,College,Research & Development,5003,2,2,0,No,0,0.04896636255539191,0.02,0,0
+39,36-45,Female,Below College,Research & Development,12742,4,21,0,No,0,0.009442587329946852,0.01,0,0
+27,26-35,Female,Master,Research & Development,4227,2,3,0,No,0,0.11379666542344329,0.02,0,0
+35,26-35,Male,Bachelor,Research & Development,3917,1,3,0,No,0,0.11091716929304435,0.01,0,0
+42,36-45,Male,College,Sales,18303,5,1,0,No,0,0.017921148285696156,0.02,0,0
+50,46-60,Male,Bachelor,Research & Development,2380,1,1,0,No,0,0.0793557931301898,0.11,0,0
+59,46-60,Female,Bachelor,Research & Development,13726,4,5,1,No,0,0.013569942562918377,0.0,0,0
+37,36-45,Female,College,Research & Development,4777,2,1,0,Yes,1,0.3312216521357154,0.44,0,0
+55,46-60,Male,Master,Research & Development,6385,2,8,1,No,0,0.10704471303363802,0.06,0,0
+41,36-45,Female,Below College,Research & Development,19973,5,21,0,No,0,0.0065419728282253365,0.05,0,0
+38,36-45,Male,Master,Sales,6861,2,1,1,No,0,0.34419605916699064,0.25,0,0
+26,26-35,Male,College,Sales,4969,2,2,0,Yes,1,0.5778003537987586,0.64,1,1
+52,46-60,Female,Below College,Sales,19845,5,32,0,Yes,1,0.003905452528315666,0.62,0,1
+44,36-45,Female,Bachelor,Sales,13320,4,12,1,No,0,0.03811912687528291,0.01,0,0
+50,46-60,Female,Bachelor,Sales,6347,2,18,0,No,0,0.007493044355205675,0.02,0,0
+36,36-45,Female,Master,Research & Development,2743,1,17,0,Yes,1,0.0470400873487996,0.62,0,1
+39,36-45,Female,Bachelor,Research & Development,10880,3,21,1,No,0,0.20147452676649727,0.02,0,0
+33,26-35,Female,Below College,Sales,2342,1,2,0,No,0,0.09995700008509827,0.06,0,0
+45,36-45,Female,College,Sales,17650,4,9,0,No,0,0.005288851959184532,0.05,0,0
+32,26-35,Female,Master,Research & Development,4025,1,8,0,No,0,0.19452330419203037,0.05,0,0
+34,26-35,Male,Master,Sales,9725,2,15,0,No,0,0.0759005773415157,0.05,0,0
+59,46-60,Male,College,Sales,11904,3,6,1,No,0,0.10137537098728408,0.04,0,0
+45,36-45,Male,Master,Human Resources,2177,1,6,0,No,0,0.14405942242549177,0.04,0,0
+53,46-60,Female,Bachelor,Sales,7525,3,15,0,No,0,0.009096996300472619,0.03,0,0
+36,36-45,Male,Bachelor,Research & Development,4834,2,1,0,Yes,1,0.40428939273236325,0.71,0,1
+26,26-35,Male,Bachelor,Research & Development,2042,1,3,1,Yes,1,0.8210715679404942,0.71,1,1
+34,26-35,Female,Master,Sales,2220,1,1,1,No,0,0.33158870338446,0.16,0,0
+28,26-35,Male,Below College,Sales,1052,1,1,0,No,0,0.13010763523553628,0.45,0,0
+38,36-45,Male,Master,Research & Development,2821,1,2,0,No,0,0.07103329620929143,0.1,0,0
+50,46-60,Male,Master,Research & Development,19237,5,8,1,No,0,0.07744247739310132,0.08,0,0
+37,36-45,Female,Bachelor,Research & Development,4107,2,4,0,No,0,0.07203321747471514,0.03,0,0
+40,36-45,Male,Bachelor,Sales,8396,2,7,0,No,0,0.1266147156594227,0.01,0,0
+26,26-35,Female,Below College,Research & Development,2007,1,5,0,No,0,0.15261544360547122,0.04,0,0
+46,46-60,Male,Master,Research & Development,19627,5,2,0,No,0,0.01662095358679667,0.01,0,0
+54,46-60,Female,Master,Sales,10686,3,9,0,No,0,0.025036669376836792,0.06,0,0
+56,46-60,Female,Bachelor,Research & Development,2942,1,5,0,No,0,0.02363853632076437,0.12,0,0
+36,36-45,Female,Doctor,Research & Development,8858,3,14,0,No,0,0.020958754387150447,0.16,0,0
+55,46-60,Male,Below College,Research & Development,16756,4,9,0,No,0,0.009562667928561175,0.04,0,0
+43,36-45,Male,Bachelor,Sales,10798,3,1,0,No,0,0.05260187040063342,0.07,0,0
+20,18-25,Female,Bachelor,Sales,2323,1,2,1,Yes,1,0.3124057342795204,0.78,0,1
+21,18-25,Female,Bachelor,Research & Development,1416,1,1,0,Yes,1,0.34963750138445265,0.85,0,1
+46,46-60,Female,Master,Research & Development,4615,2,16,1,No,0,0.12823110172414778,0.01,0,0
+51,46-60,Male,Master,Research & Development,2461,1,10,1,Yes,1,0.4332665434736229,0.23,0,0
+28,26-35,Male,College,Research & Development,8722,3,10,0,Yes,1,0.28979751820760585,0.16,0,0
+26,26-35,Male,College,Research & Development,3955,1,5,0,No,0,0.28258675085490337,0.07,0,0
+30,26-35,Male,Bachelor,Research & Development,9957,2,6,0,No,0,0.24165843498609085,0.06,0,0
+41,36-45,Female,College,Research & Development,3376,1,10,0,No,0,0.048072039892061644,0.01,0,0
+38,36-45,Female,Below College,Research & Development,8823,3,19,0,No,0,0.027084833423443002,0.02,0,0
+40,36-45,Male,Master,Research & Development,10322,3,11,0,No,0,0.04753269631038869,0.05,0,0
+27,26-35,Male,Doctor,Research & Development,4621,1,3,0,No,0,0.2036787384269042,0.04,0,0
+55,46-60,Male,Below College,Research & Development,10976,3,3,0,No,0,0.00830934432335229,0.01,0,0
+28,26-35,Female,Bachelor,Research & Development,3660,2,8,0,No,0,0.05633065741371732,0.05,0,0
+44,36-45,Male,College,Human Resources,10482,3,20,0,Yes,1,0.1395223600263831,0.07,0,0
+33,26-35,Male,Bachelor,Research & Development,7119,3,3,0,No,0,0.052010079137450406,0.02,0,0
+35,26-35,Male,Bachelor,Sales,9582,3,8,1,Yes,1,0.13673048744175223,0.74,0,1
+33,26-35,Female,Master,Research & Development,4508,2,13,0,Yes,1,0.12550478683324678,0.64,0,1
+28,26-35,Male,College,Research & Development,2207,1,4,0,No,0,0.30370944370990527,0.04,0,0
+34,26-35,Male,Below College,Research & Development,7756,2,6,0,No,0,0.11504054254410122,0.01,0,0
+37,36-45,Female,Master,Sales,6694,2,1,1,No,0,0.1304156518583652,0.09,0,0
+25,18-25,Male,Below College,Research & Development,3691,1,7,1,Yes,1,0.11197641535327642,0.74,0,1
+26,26-35,Male,Bachelor,Research & Development,2377,1,1,0,Yes,1,0.46830665528516613,0.84,0,1
+33,26-35,Male,Bachelor,Research & Development,2313,1,2,1,Yes,1,0.788281892826887,0.88,1,1
+42,36-45,Male,College,Research & Development,17665,4,22,0,No,0,0.01570782221029666,0.0,0,0
+28,26-35,Male,Bachelor,Research & Development,2596,1,1,0,Yes,1,0.30658105626113874,0.8,0,1
+50,46-60,Male,Master,Sales,4728,2,0,1,Yes,1,0.12142007515940119,0.12,0,0
+33,26-35,Female,Bachelor,Sales,4302,2,3,0,No,0,0.06002767115427344,0.01,0,0
+34,26-35,Male,Master,Research & Development,2979,1,0,0,No,0,0.0800264512163591,0.05,0,0
+48,46-60,Male,Master,Research & Development,16885,4,5,0,No,0,0.012470787783930177,0.0,0,0
+45,36-45,Female,Master,Sales,5593,2,15,0,No,0,0.02570841524866815,0.02,0,0
+52,46-60,Male,Master,Research & Development,10445,3,8,0,No,0,0.044199934918369786,0.06,0,0
+38,36-45,Male,Master,Sales,8740,3,8,1,No,0,0.1350265028658064,0.02,0,0
+29,26-35,Female,Master,Research & Development,2514,1,7,0,No,0,0.12623034081199885,0.06,0,0
+28,26-35,Female,Bachelor,Research & Development,7655,3,9,0,No,0,0.044262176517871496,0.03,0,0
+46,46-60,Male,Below College,Sales,17465,4,12,0,No,0,0.018233518066971748,0.04,0,0
+38,36-45,Male,College,Sales,7351,3,1,0,No,0,0.10624669555342353,0.05,0,0
+43,36-45,Female,Bachelor,Research & Development,10820,3,8,0,No,0,0.13936821380657535,0.07,0,0
+39,36-45,Male,Bachelor,Research & Development,12169,4,18,0,Yes,1,0.06940817512037609,0.61,0,1
+40,36-45,Male,Bachelor,Research & Development,19626,5,20,0,No,0,0.01702510672558675,0.02,0,0
+21,18-25,Female,Below College,Research & Development,2070,1,2,1,No,0,0.2804487610123301,0.11,0,0
+39,36-45,Male,Bachelor,Research & Development,6782,2,5,0,No,0,0.23520000662498136,0.09,0,0
+36,36-45,Male,Master,Research & Development,7779,2,11,0,No,0,0.0578590336564121,0.02,0,0
+31,26-35,Male,Bachelor,Sales,2791,1,2,0,No,0,0.09748908662370359,0.16,0,0
+28,26-35,Male,Below College,Research & Development,3201,1,5,0,No,0,0.3007797645804356,0.09,0,0
+35,26-35,Male,College,Sales,4968,2,5,0,No,0,0.051263722688901815,0.02,0,0
+49,46-60,Male,Master,Sales,13120,4,9,0,No,0,0.015402998519331006,0.05,0,0
+34,26-35,Male,College,Research & Development,4033,2,3,0,No,0,0.08075483183796425,0.02,0,0
+29,26-35,Female,Bachelor,Research & Development,3291,1,7,0,No,0,0.08411448738160421,0.02,0,0
+42,36-45,Male,Bachelor,Research & Development,4272,2,1,0,No,0,0.10665147962245554,0.1,0,0
+29,26-35,Male,Below College,Research & Development,5056,2,10,1,No,0,0.30673181156790874,0.15,0,0
+38,36-45,Male,Bachelor,Human Resources,2844,1,7,0,No,0,0.032213417382951505,0.0,0,0
+28,26-35,Male,Bachelor,Research & Development,2703,1,3,1,No,0,0.41990078092927,0.08,0,0
+18,,Male,Below College,Research & Development,1904,1,0,0,Yes,1,0.28976031811373676,0.77,0,1
+33,26-35,Female,Master,Sales,8224,2,5,1,Yes,1,0.5078894873305395,0.11,1,0
+41,36-45,Male,Master,Research & Development,4766,1,1,1,No,0,0.33030369151721695,0.08,0,0
+31,26-35,Male,Bachelor,Research & Development,2610,1,2,0,Yes,1,0.1642580930233642,0.7,0,1
+37,36-45,Female,College,Research & Development,5731,2,6,0,No,0,0.16690481417367567,0.03,0,0
+27,26-35,Male,Bachelor,Research & Development,2539,1,4,0,No,0,0.10888258141242232,0.01,0,0
+34,26-35,Female,Below College,Sales,5714,2,6,0,No,0,0.09139986756639978,0.01,0,0
+35,26-35,Male,Master,Human Resources,4323,1,5,0,No,0,0.11606947275003768,0.07,0,0
+29,26-35,Female,Below College,Sales,7336,3,11,0,Yes,1,0.15103910488605532,0.61,0,1
+40,36-45,Female,Master,Research & Development,13499,3,18,0,No,0,0.11052611092440295,0.04,0,0
+42,36-45,Male,Bachelor,Sales,13758,4,21,1,Yes,1,0.16184145456147275,0.61,0,1
+42,36-45,Male,Master,Sales,5155,2,6,0,No,0,0.15919358679570247,0.02,0,0
+35,26-35,Male,Master,Research & Development,2258,1,8,0,No,0,0.12608023914930988,0.03,0,0
+24,18-25,Male,Bachelor,Research & Development,3597,1,4,0,No,0,0.37013897308110466,0.19,0,0
+28,26-35,Female,Below College,Research & Development,2515,1,1,1,Yes,1,0.41578742721048223,0.77,0,1
+26,26-35,Male,Master,Research & Development,4420,1,8,0,No,0,0.08890265298290512,0.03,0,0
+30,26-35,Male,Bachelor,Sales,6578,2,10,0,No,0,0.08408843988502934,0.01,0,0
+40,36-45,Female,College,Research & Development,4422,2,1,1,No,0,0.3300290586651541,0.1,0,0
+35,26-35,Male,Bachelor,Research & Development,10274,3,7,0,No,0,0.02543433903675254,0.11,0,0
+34,26-35,Male,Bachelor,Research & Development,5343,2,13,0,No,0,0.02795645125538757,0.0,0,0
+35,26-35,Male,Master,Research & Development,2376,1,2,0,No,0,0.03626270033878383,0.01,0,0
+43,36-45,Female,Bachelor,Sales,5346,2,4,0,Yes,1,0.2693257661106454,0.72,0,1
+32,26-35,Female,Below College,Sales,2827,1,1,0,No,0,0.16603137308995033,0.29,0,0
+56,46-60,Female,Master,Research & Development,19943,5,5,0,No,0,0.008661584557368067,0.05,0,0
+29,26-35,Female,Below College,Research & Development,3131,1,10,0,No,0,0.04520770661717834,0.05,0,0
+19,18-25,Male,College,Research & Development,2552,1,1,0,No,0,0.2787812224294112,0.18,0,0
+45,36-45,Female,Bachelor,Research & Development,4477,1,3,1,No,0,0.4224489013046095,0.26,0,0
+37,36-45,Female,Bachelor,Research & Development,6474,2,14,0,No,0,0.01769070599382888,0.01,0,0
+20,18-25,Male,Bachelor,Research & Development,3033,1,2,0,No,0,0.36960932147298653,0.1,0,0
+44,36-45,Male,Master,Research & Development,2936,1,6,1,Yes,1,0.1860997163402774,0.73,0,1
+53,46-60,Female,College,Research & Development,18606,5,7,0,No,0,0.002638844331923194,0.01,0,0
+29,26-35,Female,Below College,Research & Development,2168,1,5,1,No,0,0.3753984270755331,0.07,0,0
+22,18-25,Male,Master,Research & Development,2853,1,0,1,Yes,1,0.35273820979855197,0.47,0,0
+46,46-60,Female,Bachelor,Sales,17048,4,26,0,No,0,0.017606419487031958,0.0,0,0
+44,36-45,Male,Bachelor,Research & Development,2290,1,0,0,No,0,0.06322579154537064,0.04,0,0
+33,26-35,Male,Bachelor,Human Resources,3600,1,5,0,No,0,0.09810441319030011,0.01,0,0
+41,36-45,Male,College,Research & Development,2107,1,1,0,Yes,1,0.5238650061482771,0.21,1,0
+30,26-35,Male,Master,Sales,4115,2,4,0,No,0,0.4698545858557253,0.15,0,0
+40,36-45,Male,Master,Sales,4327,2,0,0,No,0,0.19900335369779903,0.02,0,0
+50,46-60,Female,Bachelor,Research & Development,17856,4,2,0,No,0,0.004954265311501483,0.0,0,0
+28,26-35,Male,Master,Research & Development,3196,1,6,0,No,0,0.1653974396634347,0.03,0,0
+46,46-60,Male,College,Research & Development,19081,5,4,0,No,0,0.024625908884853852,0.03,0,0
+35,26-35,Male,Master,Sales,8966,2,7,1,No,0,0.30888744680461094,0.07,0,0
+24,18-25,Female,College,Research & Development,2210,1,1,0,Yes,1,0.3190153790564086,0.88,0,1
+33,26-35,Female,Bachelor,Sales,4539,2,10,0,No,0,0.14222324771580583,0.04,0,0
+36,36-45,Male,Master,Research & Development,2741,1,7,0,No,0,0.04397681678849571,0.02,0,0
+30,26-35,Male,Master,Research & Development,3491,2,10,0,No,0,0.07837884418475101,0.07,0,0
+44,36-45,Male,Master,Research & Development,4541,2,20,0,No,0,0.01424944028566255,0.04,0,0
+20,18-25,Male,Bachelor,Sales,2678,1,2,0,No,0,0.2207513712547781,0.14,0,0
+46,46-60,Male,Master,Research & Development,7379,2,6,0,No,0,0.020966267602349275,0.04,0,0
+42,36-45,Male,Doctor,Human Resources,6272,2,4,0,No,0,0.07076288946283574,0.06,0,0
+60,46-60,Male,Master,Sales,5220,2,11,1,No,0,0.043663410557030186,0.03,0,0
+32,26-35,Female,Bachelor,Research & Development,2743,1,2,0,No,0,0.134443960919897,0.12,0,0
+32,26-35,Female,College,Research & Development,4998,2,8,1,No,0,0.16163586333882451,0.01,0,0
+36,36-45,Female,Bachelor,Research & Development,10252,3,7,1,No,0,0.12509442719836963,0.02,0,0
+33,26-35,Male,Bachelor,Research & Development,2781,1,14,0,No,0,0.043467436192810766,0.02,0,0
+40,36-45,Female,Bachelor,Sales,6852,2,5,0,No,0,0.19429946866232303,0.05,0,0
+25,18-25,Male,Master,Sales,4950,2,4,0,No,0,0.07758761469159393,0.01,0,0
+30,26-35,Male,Bachelor,Research & Development,3579,1,11,1,No,0,0.1166801371281558,0.06,0,0
+42,36-45,Female,Doctor,Research & Development,13191,3,1,1,No,0,0.3861034879031947,0.05,0,0
+35,26-35,Female,College,Sales,10377,3,13,1,No,0,0.2298675576826389,0.05,0,0
+27,26-35,Male,Bachelor,Research & Development,2235,1,9,1,No,0,0.698066377181142,0.25,1,0
+54,46-60,Female,Master,Research & Development,10502,3,5,0,No,0,0.011231576122936331,0.04,0,0
+44,36-45,Female,Below College,Research & Development,2011,1,10,0,No,0,0.03877579643949046,0.06,0,0
+19,18-25,Female,Bachelor,Research & Development,1859,1,1,1,Yes,1,0.6692390023613896,0.85,1,1
+29,26-35,Female,Bachelor,Research & Development,3760,1,3,0,No,0,0.10640190254839371,0.07,0,0
+54,46-60,Male,Bachelor,Research & Development,17779,4,10,0,No,0,0.0014436177328706345,0.0,0,0
+31,26-35,Male,College,Research & Development,6833,2,6,1,No,0,0.49772176216803626,0.03,0,0
+31,26-35,Female,Bachelor,Research & Development,6812,2,10,0,No,0,0.10254917297455261,0.06,0,0
+59,46-60,Female,Bachelor,Sales,5171,2,6,0,No,0,0.019611890250685205,0.07,0,0
+43,36-45,Male,Bachelor,Research & Development,19740,5,8,0,No,0,0.007119466440818924,0.04,0,0
+49,46-60,Male,College,Research & Development,18711,5,1,0,No,0,0.01843777779301381,0.03,0,0
+36,36-45,Male,Bachelor,Research & Development,3692,1,11,0,No,0,0.05278258749514583,0.02,0,0
+48,46-60,Male,College,Research & Development,2559,1,1,0,No,0,0.08519234992876941,0.1,0,0
+27,26-35,Male,College,Research & Development,2517,1,5,0,No,0,0.2156132593472055,0.05,0,0
+29,26-35,Male,Bachelor,Research & Development,6623,2,6,1,No,0,0.34015222665759093,0.05,0,0
+48,46-60,Male,Bachelor,Research & Development,18265,5,1,0,No,0,0.007160276795565628,0.01,0,0
+29,26-35,Female,Bachelor,Research & Development,16124,4,7,0,No,0,0.02757415878170817,0.04,0,0
+34,26-35,Female,Bachelor,Research & Development,2585,1,1,0,No,0,0.13684850496210652,0.17,0,0
+44,36-45,Male,Bachelor,Sales,18213,5,22,0,No,0,0.04149919845424207,0.03,0,0
+33,26-35,Male,Doctor,Sales,8380,3,9,1,No,0,0.10589220817758731,0.03,0,0
+19,18-25,Female,Bachelor,Research & Development,2994,1,1,1,No,0,0.6952589062902668,0.37,1,0
+23,18-25,Male,College,Research & Development,1223,1,1,0,No,0,0.11498262973561717,0.16,0,0
+25,18-25,Male,Below College,Sales,1118,1,1,1,Yes,1,0.5423506756317863,0.7,1,1
+26,26-35,Male,College,Research & Development,2875,1,8,1,No,0,0.2848815613552046,0.12,0,0
+45,36-45,Female,Bachelor,Sales,18824,5,24,1,Yes,1,0.08978058872712806,0.51,0,1
+55,46-60,Male,Below College,Research & Development,13577,4,33,1,No,0,0.027562149169536136,0.02,0,0
+21,18-25,Female,College,Research & Development,2625,1,2,0,Yes,1,0.4135411904017398,0.71,0,1
+46,46-60,Female,College,Sales,18789,5,11,0,No,0,0.008969962256435895,0.02,0,0
+34,26-35,Female,Bachelor,Sales,4538,2,3,1,No,0,0.3277996575044551,0.02,0,0
+51,46-60,Male,Bachelor,Sales,19847,5,29,1,No,0,0.0400020897038373,0.05,0,0
+59,46-60,Male,Master,Research & Development,10512,3,9,0,No,0,0.008862319548979113,0.08,0,0
+34,26-35,Female,Bachelor,Research & Development,4444,2,11,0,No,0,0.0731027685620875,0.0,0,0
+28,26-35,Male,Master,Research & Development,2154,1,4,1,No,0,0.31137416684325553,0.06,0,0
+44,36-45,Male,College,Research & Development,19190,5,25,0,No,0,0.022369123442364653,0.02,0,0
+34,26-35,Male,Bachelor,Human Resources,4490,2,10,0,No,0,0.05230732764594961,0.03,0,0
+35,26-35,Male,Below College,Research & Development,3506,1,3,1,No,0,0.24662939791914498,0.03,0,0
+42,36-45,Female,Master,Research & Development,2372,2,1,1,No,0,0.38069383589762185,0.06,0,0
+43,36-45,Female,Master,Sales,10231,3,21,0,No,0,0.007879634414556714,0.01,0,0
+36,36-45,Female,Master,Research & Development,5410,2,16,1,No,0,0.22334179582267272,0.04,0,0
+44,36-45,Female,Bachelor,Research & Development,7978,3,10,0,Yes,1,0.048733073048929335,0.68,0,1
+28,26-35,Male,Bachelor,Research & Development,3867,1,2,1,No,0,0.22593897648548317,0.31,0,0
+51,46-60,Female,College,Research & Development,2838,1,7,0,No,0,0.051204715868866844,0.07,0,0
+30,26-35,Female,College,Research & Development,4695,2,8,1,No,0,0.43121668141338854,0.03,0,0
+29,26-35,Female,Bachelor,Research & Development,3339,1,7,1,Yes,1,0.3284780223443983,0.76,0,1
+28,26-35,Male,Bachelor,Research & Development,2080,1,3,0,No,0,0.19573420874803538,0.01,0,0
+25,18-25,Female,Bachelor,Research & Development,2096,1,2,0,No,0,0.12452469323978693,0.19,0,0
+32,26-35,Male,Bachelor,Sales,6209,2,10,0,No,0,0.02641919879759563,0.03,0,0
+45,36-45,Female,Bachelor,Research & Development,18061,5,0,0,No,0,0.043246010581707045,0.04,0,0
+39,36-45,Female,Master,Research & Development,17123,4,19,1,No,0,0.16786026362572395,0.02,0,0
+58,46-60,Male,Master,Research & Development,2372,1,2,0,No,0,0.10041141894548469,0.13,0,0
+32,26-35,Male,College,Research & Development,4883,2,10,0,Yes,1,0.047201815954227365,0.65,0,1
+39,36-45,Male,Bachelor,Research & Development,3904,1,5,0,Yes,1,0.16709609004694367,0.61,0,1
+30,26-35,Female,Bachelor,Research & Development,4627,2,9,0,No,0,0.08821665034659226,0.0,0,0
+36,36-45,Female,Master,Research & Development,7094,3,7,0,No,0,0.040407045989005644,0.0,0,0
+46,46-60,Female,College,Human Resources,3423,1,7,0,No,0,0.039266434588007285,0.05,0,0
+28,26-35,Female,Bachelor,Research & Development,6674,2,9,0,No,0,0.020633725579175057,0.05,0,0
+50,46-60,Female,Bachelor,Research & Development,16880,4,3,1,No,0,0.1252735250754667,0.09,0,0
+40,36-45,Male,Master,Sales,9094,3,5,1,Yes,1,0.27100384179970916,0.29,0,0
+52,46-60,Male,Bachelor,Sales,8446,3,8,1,Yes,1,0.37442963737679685,0.62,0,1
+30,26-35,Female,Master,Research & Development,11916,3,9,1,No,0,0.5414475592778801,0.09,1,0
+39,36-45,Male,College,Research & Development,4534,2,8,0,No,0,0.07743157463353184,0.06,0,0
+31,26-35,Female,Master,Sales,9852,3,10,1,No,0,0.09651638314533362,0.08,0,0
+41,36-45,Male,College,Sales,6151,2,19,0,No,0,0.06716520606008211,0.02,0,0
+31,26-35,Female,Bachelor,Sales,2302,1,3,1,Yes,1,0.22983914981439146,0.68,0,1
+44,36-45,Male,Bachelor,Research & Development,2362,1,3,0,Yes,1,0.14136921244301362,0.15,0,0
+42,36-45,Male,Below College,Research & Development,17861,4,20,1,No,0,0.062081273369087746,0.02,0,0
+55,46-60,Female,College,Research & Development,19187,5,19,0,No,0,0.0039584256011091215,0.08,0,0
+56,46-60,Male,Master,Human Resources,19717,5,7,0,No,0,0.006428332982710139,0.08,0,0
+40,36-45,Male,College,Research & Development,3544,1,4,0,No,0,0.258189691914309,0.04,0,0
+34,26-35,Male,Bachelor,Research & Development,8500,3,9,0,No,0,0.033346900178238104,0.01,0,0
+40,36-45,Male,Bachelor,Research & Development,4661,2,9,0,No,0,0.019709231387531518,0.01,0,0
+41,36-45,Female,Bachelor,Sales,4103,2,9,0,No,0,0.05676267010936569,0.05,0,0
+35,26-35,Male,Master,Research & Development,4249,2,9,1,No,0,0.1919738667759961,0.14,0,0
+51,46-60,Male,Bachelor,Human Resources,14026,4,33,1,No,0,0.05218568256096506,0.01,0,0
+38,36-45,Female,College,Sales,6893,2,7,0,No,0,0.07472390853770045,0.0,0,0
+34,26-35,Female,College,Sales,6125,2,10,0,No,0,0.05107600885760888,0.02,0,0
+25,18-25,Male,Below College,Research & Development,3669,1,3,0,No,0,0.1327324560634139,0.11,0,0
+58,46-60,Female,Master,Research & Development,10008,3,10,1,Yes,1,0.0847058969868119,0.66,0,1
+40,36-45,Male,Master,Research & Development,2387,1,4,0,No,0,0.10957789996736107,0.07,0,0
+36,36-45,Female,Bachelor,Sales,4639,2,15,0,No,0,0.1690165170995299,0.02,0,0
+48,46-60,Male,Bachelor,Research & Development,7898,3,10,0,No,0,0.008599637396309347,0.03,0,0
+27,26-35,Female,Bachelor,Sales,2534,1,1,0,No,0,0.23531585303798094,0.13,0,0
+51,46-60,Female,College,Research & Development,13142,4,5,0,No,0,0.01468254861350829,0.03,0,0
+18,,Female,Bachelor,Research & Development,1611,1,0,0,No,0,0.0682860646574872,0.27,0,0
+35,26-35,Female,Bachelor,Research & Development,5363,2,9,0,No,0,0.0170735204278566,0.0,0,0
+27,26-35,Male,Below College,Sales,5071,2,6,0,No,0,0.058367715359689924,0.0,0,0
+55,46-60,Male,Master,Sales,13695,4,19,1,Yes,1,0.21863244768644713,0.67,0,1
+56,46-60,Male,Bachelor,Research & Development,13402,4,19,1,No,0,0.024964054673283137,0.05,0,0
+34,26-35,Female,Below College,Research & Development,2029,1,5,0,No,0,0.20339887721460315,0.05,0,0
+40,36-45,Female,Below College,Research & Development,6377,2,12,0,No,0,0.03687807218866345,0.07,0,0
+34,26-35,Male,Bachelor,Research & Development,5429,2,8,0,No,0,0.1971653334745181,0.05,0,0
+31,26-35,Female,Bachelor,Sales,2785,1,1,0,Yes,1,0.12156728472917612,0.69,0,1
+35,26-35,Female,Master,Sales,4614,2,4,1,Yes,1,0.30044604918770457,0.75,0,1
+38,36-45,Male,Bachelor,Research & Development,2610,1,4,0,No,0,0.06088538754966095,0.04,0,0
+34,26-35,Female,Master,Research & Development,6687,2,14,0,No,0,0.012444869155796588,0.02,0,0
+28,26-35,Male,Bachelor,Sales,4724,2,5,0,No,0,0.33380631452489445,0.1,0,0
+31,26-35,Male,Master,Research & Development,6179,2,10,1,Yes,1,0.3944556017837764,0.26,0,0
+39,36-45,Male,Master,Sales,6120,2,5,1,No,0,0.3609364166405319,0.09,0,0
+51,46-60,Male,Bachelor,Sales,10596,3,4,0,No,0,0.03264149500050591,0.04,0,0
+41,36-45,Female,Bachelor,Research & Development,5467,2,6,1,No,0,0.19995287156190777,0.05,0,0
+37,36-45,Male,Below College,Research & Development,2996,1,6,1,No,0,0.3891427493139686,0.16,0,0
+33,26-35,Male,Below College,Sales,9998,2,5,0,No,0,0.0853488738219356,0.05,0,0
+32,26-35,Male,Below College,Sales,4078,2,3,1,No,0,0.38546494543261106,0.03,0,0
+39,36-45,Male,College,Research & Development,10920,3,6,0,No,0,0.06663726247923131,0.02,0,0
+25,18-25,Male,Below College,Sales,6232,2,3,0,No,0,0.37814060585863074,0.06,0,0
+52,46-60,Female,College,Research & Development,13247,4,5,1,No,0,0.07155395652504103,0.03,0,0
+43,36-45,Female,Bachelor,Research & Development,4081,2,20,1,No,0,0.28505730199608814,0.09,0,0
+27,26-35,Female,Bachelor,Sales,5769,2,6,1,No,0,0.2242399762598733,0.03,0,0
+27,26-35,Female,Master,Research & Development,2394,1,8,1,Yes,1,0.357865867545038,0.8,0,1
+26,26-35,Male,Below College,Research & Development,3904,1,4,0,No,0,0.13195093855936732,0.1,0,0
+42,36-45,Female,Bachelor,Human Resources,16799,4,20,0,No,0,0.022141059570318745,0.0,0,0
+52,46-60,Female,Master,Research & Development,2950,1,5,0,No,0,0.19594656364023516,0.09,0,0
+37,36-45,Female,Bachelor,Research & Development,3629,1,3,0,No,0,0.13832835169927396,0.04,0,0
+35,26-35,Male,College,Research & Development,9362,3,2,0,No,0,0.06625230058003943,0.15,0,0
+25,18-25,Male,Bachelor,Research & Development,3229,1,3,0,No,0,0.28661642622784034,0.09,0,0
+26,26-35,Male,Bachelor,Research & Development,3578,1,7,0,No,0,0.11886800954642622,0.04,0,0
+29,26-35,Male,Bachelor,Human Resources,7988,3,10,0,No,0,0.19101022975885296,0.07,0,0
+49,46-60,Male,College,Research & Development,4284,2,4,0,Yes,1,0.14356582799766082,0.65,0,1
+29,26-35,Female,Below College,Research & Development,7553,3,8,1,Yes,1,0.16844712828093192,0.68,0,1
+54,46-60,Female,Bachelor,Research & Development,17328,4,20,0,No,0,0.005769624204099372,0.0,0,0
+58,46-60,Female,Bachelor,Research & Development,19701,5,9,1,No,0,0.01062554257411313,0.13,0,0
+55,46-60,Male,Master,Research & Development,14732,4,7,0,No,0,0.0024874052987433884,0.04,0,0
+36,36-45,Female,Master,Sales,9278,2,5,1,No,0,0.29321087306956023,0.02,0,0
+31,26-35,Female,Master,Sales,1359,1,1,0,Yes,1,0.14749356579920353,0.77,0,1
+30,26-35,Female,Master,Sales,4779,2,3,0,No,0,0.20154752379631247,0.02,0,0
+31,26-35,Female,Doctor,Research & Development,16422,4,3,0,No,0,0.1243483775697798,0.04,0,0
+34,26-35,Male,Master,Research & Development,2996,1,4,0,No,0,0.1205339052587424,0.06,0,0
+31,26-35,Female,Bachelor,Research & Development,1261,1,1,0,Yes,1,0.23742231833208005,0.86,0,1
+27,26-35,Male,Below College,Research & Development,2099,1,5,0,No,0,0.2470860697232207,0.08,0,0
+36,36-45,Male,Master,Research & Development,5810,2,10,0,No,0,0.1063929069658088,0.03,0,0
+36,36-45,Female,Master,Sales,5647,2,3,0,No,0,0.20375486923870667,0.07,0,0
+47,46-60,Male,Bachelor,Research & Development,3420,1,6,0,No,0,0.08640619758817317,0.06,0,0
+25,18-25,Male,College,Sales,4400,1,3,0,Yes,1,0.4445067261221707,0.21,0,0
+37,36-45,Male,College,Research & Development,3500,1,6,0,No,0,0.08041143960800243,0.07,0,0
+56,46-60,Female,College,Research & Development,2066,1,3,0,No,0,0.05686826397740563,0.19,0,0
+47,46-60,Female,Master,Research & Development,17169,4,20,0,No,0,0.004951021398682102,0.02,0,0
+24,18-25,Female,Below College,Sales,4162,2,5,1,No,0,0.240154735940724,0.07,0,0
+32,26-35,Male,Doctor,Sales,9204,2,4,0,No,0,0.0726797035084825,0.13,0,0
+34,26-35,Female,Bachelor,Research & Development,3294,1,5,0,No,0,0.105975202036068,0.01,0,0
+41,36-45,Male,Doctor,Research & Development,2127,1,4,1,No,0,0.353156936957907,0.4,0,0
+40,36-45,Male,Master,Research & Development,3975,2,8,0,No,0,0.038986015736609834,0.01,0,0
+31,26-35,Male,College,Sales,10793,3,13,0,No,0,0.054606177658401554,0.04,0,0
+46,46-60,Male,Bachelor,Sales,10096,3,7,0,Yes,1,0.017292091496094297,0.73,0,1
+39,36-45,Female,Bachelor,Research & Development,3646,1,1,1,Yes,1,0.3579599326882959,0.78,0,1
+31,26-35,Female,Doctor,Research & Development,7446,3,10,0,Yes,1,0.049641693680848496,0.8,0,1
+45,36-45,Male,Bachelor,Research & Development,10851,3,7,1,No,0,0.16666491147662352,0.07,0,0
+31,26-35,Female,College,Human Resources,2109,1,3,0,No,0,0.19969640226986857,0.08,0,0
+31,26-35,Male,Bachelor,Research & Development,3722,1,2,1,Yes,1,0.6123529932630536,0.8,1,1
+45,36-45,Male,Bachelor,Research & Development,9380,3,3,1,No,0,0.26007786358127993,0.12,0,0
+48,46-60,Male,Bachelor,Sales,5486,2,2,0,No,0,0.06680994357958256,0.04,0,0
+34,26-35,Female,Master,Human Resources,2742,1,2,0,Yes,1,0.1920361054362626,0.68,0,1
+40,36-45,Male,Below College,Research & Development,13757,3,9,0,No,0,0.016620595250487872,0.06,0,0
+28,26-35,Male,Bachelor,Sales,8463,2,5,0,No,0,0.0693804325287631,0.02,0,0
+44,36-45,Male,Bachelor,Research & Development,3162,1,5,0,No,0,0.0558861565559154,0.01,0,0
+53,46-60,Male,Bachelor,Research & Development,16598,4,9,0,No,0,0.005267882587576566,0.01,0,0
+49,46-60,Male,Master,Research & Development,6651,2,3,0,No,0,0.059750729435985396,0.0,0,0
+40,36-45,Male,Bachelor,Research & Development,2345,1,3,0,No,0,0.04590850137232159,0.0,0,0
+44,36-45,Male,Bachelor,Research & Development,3420,1,5,0,No,0,0.09821975391478291,0.02,0,0
+33,26-35,Male,Bachelor,Sales,4373,2,4,0,No,0,0.09147384186255833,0.09,0,0
+34,26-35,Male,Bachelor,Sales,4759,2,13,0,No,0,0.0498752341957825,0.1,0,0
+30,26-35,Male,Below College,Sales,5301,2,2,0,No,0,0.3132553141943198,0.07,0,0
+42,36-45,Female,College,Research & Development,3673,1,12,0,No,0,0.03613298206626546,0.02,0,0
+44,36-45,Female,Doctor,Sales,4768,2,1,0,No,0,0.17778176694152822,0.14,0,0
+30,26-35,Male,Bachelor,Research & Development,1274,1,1,0,No,0,0.20321256618583844,0.31,0,0
+57,46-60,Male,College,Research & Development,4900,2,12,0,No,0,0.013501196132855331,0.05,0,0
+49,46-60,Male,Master,Research & Development,10466,3,8,0,No,0,0.011646675290742856,0.03,0,0
+34,26-35,Male,Bachelor,Research & Development,17007,4,14,0,No,0,0.2219212939005679,0.09,0,0
+28,26-35,Male,Bachelor,Sales,2909,1,3,0,Yes,1,0.17500211309464525,0.69,0,1
+29,26-35,Female,Bachelor,Sales,5765,2,5,0,Yes,1,0.4827241230752088,0.71,0,1
+34,26-35,Female,Master,Sales,4599,2,15,1,Yes,1,0.2767400049647749,0.6,0,1
+35,26-35,Male,Below College,Sales,2404,1,1,0,No,0,0.08137411004758235,0.04,0,0
+24,18-25,Male,Bachelor,Research & Development,3172,1,0,1,Yes,1,0.8013010053664729,0.78,1,1
+24,18-25,Female,College,Sales,2033,1,1,0,No,0,0.19336047596827402,0.83,0,1
+44,36-45,Male,Below College,Research & Development,10209,3,2,1,No,0,0.2349243754632785,0.08,0,0
+29,26-35,Male,Bachelor,Sales,8620,2,10,0,No,0,0.07585050158628702,0.04,0,0
+30,26-35,Male,Bachelor,Human Resources,2064,1,5,0,No,0,0.046802198918571056,0.04,0,0
+55,46-60,Male,Master,Research & Development,4035,2,3,1,No,0,0.07331404894725786,0.08,0,0
+33,26-35,Female,Master,Research & Development,3838,1,5,0,No,0,0.29352785487641886,0.13,0,0
+47,46-60,Female,Bachelor,Sales,4591,2,5,1,No,0,0.18043345308795367,0.06,0,0
+28,26-35,Male,College,Research & Development,2561,1,0,0,Yes,1,0.42084510328505903,0.63,0,1
+28,26-35,Male,Bachelor,Research & Development,1563,1,1,0,No,0,0.3900979281304475,0.22,0,0
+28,26-35,Male,Bachelor,Sales,4898,2,4,0,No,0,0.14491107263800845,0.01,0,0
+49,46-60,Female,College,Research & Development,4789,2,3,0,No,0,0.05168418325355083,0.01,0,0
+29,26-35,Female,Below College,Research & Development,3180,1,3,0,No,0,0.06786454073290273,0.02,0,0
+28,26-35,Male,Below College,Research & Development,6549,2,8,0,No,0,0.22435049676972152,0.11,0,0
+33,26-35,Male,Doctor,Research & Development,6388,2,0,1,No,0,0.1483711405831603,0.08,0,0
+32,26-35,Male,Bachelor,Research & Development,11244,3,5,0,No,0,0.030488547091978718,0.03,0,0
+54,46-60,Female,Master,Research & Development,16032,4,14,0,No,0,0.006342198553906761,0.0,0,0
+29,26-35,Male,Master,Research & Development,2362,1,9,0,Yes,1,0.47010991257192425,0.72,0,1
+44,36-45,Male,Bachelor,Research & Development,16328,4,20,0,No,0,0.042771985493157964,0.05,0,0
+39,36-45,Female,Bachelor,Research & Development,8376,3,2,0,No,0,0.12058525725610278,0.08,0,0
+46,46-60,Female,Bachelor,Sales,16606,4,13,0,No,0,0.013542077163178803,0.03,0,0
+35,26-35,Female,Bachelor,Research & Development,8606,3,11,0,No,0,0.062108406816201195,0.08,0,0
+23,18-25,Male,Below College,Research & Development,2272,2,4,0,No,0,0.31140258705271084,0.05,0,0
+40,36-45,Male,Master,Research & Development,2018,1,5,0,Yes,1,0.10930691893900671,0.68,0,1
+34,26-35,Male,Bachelor,Sales,7083,3,10,1,No,0,0.08663270060614667,0.0,0,0
+31,26-35,Female,Bachelor,Research & Development,4084,1,7,0,Yes,1,0.10253075531828962,0.73,0,1
+50,46-60,Male,Doctor,Research & Development,14411,4,32,1,No,0,0.06942025685444748,0.0,0,0
+34,26-35,Male,College,Sales,2308,1,11,1,No,0,0.13265867955284832,0.09,0,0
+42,36-45,Male,Bachelor,Research & Development,4841,1,1,0,No,0,0.11159211005907646,0.06,0,0
+37,36-45,Male,Bachelor,Research & Development,4285,2,10,0,No,0,0.06889623503268538,0.06,0,0
+29,26-35,Female,Below College,Research & Development,9715,2,7,0,No,0,0.0995242364031524,0.04,0,0
+33,26-35,Male,Bachelor,Research & Development,4320,2,5,0,No,0,0.14145849085154694,0.03,0,0
+45,36-45,Male,Bachelor,Research & Development,2132,1,5,0,No,0,0.05396887533254903,0.01,0,0
+42,36-45,Male,Bachelor,Research & Development,10124,3,20,1,No,0,0.06682863476096927,0.02,0,0
+40,36-45,Male,College,Sales,5473,2,8,0,No,0,0.10183936081640295,0.06,0,0
+33,26-35,Male,Master,Research & Development,5207,2,15,1,No,0,0.22768137125032095,0.06,0,0
+40,36-45,Male,College,Human Resources,16437,4,21,1,No,0,0.05711591130951339,0.03,0,0
+24,18-25,Male,College,Research & Development,2296,1,1,0,No,0,0.32033652576760707,0.22,0,0
+40,36-45,Male,College,Research & Development,4069,2,2,1,No,0,0.14524200641228505,0.07,0,0
+45,36-45,Male,Master,Research & Development,7441,3,10,0,No,0,0.050241784817639246,0.08,0,0
+35,26-35,Female,Master,Sales,2430,1,5,0,No,0,0.11302933378662057,0.1,0,0
+32,26-35,Female,College,Research & Development,5878,2,7,0,No,0,0.08550154438263645,0.0,0,0
+36,36-45,Male,Master,Sales,2644,1,3,1,No,0,0.2571355112710578,0.13,0,0
+48,46-60,Female,Master,Sales,6439,2,8,0,No,0,0.04757898489736264,0.03,0,0
+29,26-35,Male,Bachelor,Research & Development,2451,1,1,0,No,0,0.3044045061488201,0.11,0,0
+33,26-35,Male,Master,Sales,6392,2,2,0,No,0,0.3357527253926969,0.13,0,0
+30,26-35,Male,Bachelor,Sales,9714,2,10,0,Yes,1,0.08903506271791568,0.68,0,1
+38,36-45,Male,Master,Human Resources,6077,2,6,0,No,0,0.08107711425415924,0.04,0,0
+35,26-35,Male,Bachelor,Research & Development,2450,1,3,0,No,0,0.10571598841742673,0.05,0,0
+30,26-35,Male,Master,Sales,9250,3,4,0,No,0,0.23110278856567784,0.07,0,0
+35,26-35,Female,Bachelor,Research & Development,2074,1,1,1,Yes,1,0.6382893767405147,0.77,1,1
+53,46-60,Female,Doctor,Research & Development,10169,3,33,0,Yes,1,0.00442771214355097,0.09,0,0
+38,36-45,Male,Bachelor,Research & Development,4855,2,5,0,Yes,1,0.12406198261025786,0.69,0,1
+32,26-35,Male,Master,Research & Development,4087,2,6,0,No,0,0.12846442776043868,0.03,0,0
+48,46-60,Female,Master,Research & Development,2367,1,8,0,No,0,0.26551597468586025,0.15,0,0
+34,26-35,Male,Master,Research & Development,2972,1,1,0,No,0,0.26320554017209746,0.12,0,0
+55,46-60,Male,Doctor,Sales,19586,5,36,0,No,0,0.009214635450697213,0.03,0,0
+34,26-35,Male,Master,Research & Development,5484,2,2,0,No,0,0.20492339435260343,0.18,0,0
+26,26-35,Female,Bachelor,Research & Development,2061,1,1,0,No,0,0.15469234666540527,0.4,0,0
+38,36-45,Male,Bachelor,Sales,9924,2,9,0,No,0,0.04199583668030766,0.03,0,0
+38,36-45,Female,Bachelor,Sales,4198,2,3,0,No,0,0.0972940580872565,0.02,0,0
+36,36-45,Female,Master,Sales,6815,2,1,0,No,0,0.08866439497245454,0.02,0,0
+29,26-35,Male,Below College,Research & Development,4723,1,10,1,No,0,0.327454895558607,0.06,0,0
+35,26-35,Female,Master,Research & Development,6142,2,5,1,No,0,0.411850040953136,0.06,0,0
+39,36-45,Male,Bachelor,Sales,8237,3,7,0,No,0,0.02609749340453358,0.01,0,0
+29,26-35,Male,Below College,Research & Development,8853,2,6,0,No,0,0.0788841671588995,0.01,0,0
+50,46-60,Male,Bachelor,Sales,19331,5,1,1,No,0,0.05881749259854652,0.03,0,0
+23,18-25,Male,Bachelor,Research & Development,2073,1,2,0,No,0,0.1353355851625817,0.06,0,0
+36,36-45,Male,Master,Research & Development,5562,2,3,1,No,0,0.5862110868364951,0.05,1,0
+42,36-45,Male,College,Research & Development,19613,5,1,0,No,0,0.020360550791011168,0.01,0,0
+35,26-35,Male,Bachelor,Research & Development,3407,2,10,0,No,0,0.1287578492166559,0.01,0,0
+34,26-35,Male,Master,Research & Development,5063,2,8,0,No,0,0.08513542168346448,0.03,0,0
+40,36-45,Female,College,Sales,4639,2,5,0,No,0,0.07274254543909627,0.03,0,0
+43,36-45,Male,Bachelor,Research & Development,4876,1,6,0,No,0,0.14662960972052605,0.03,0,0
+35,26-35,Male,College,Research & Development,2690,1,1,0,No,0,0.0927495487151096,0.08,0,0
+46,46-60,Male,Master,Sales,17567,4,26,0,No,0,0.04424831977001139,0.05,0,0
+28,26-35,Male,Bachelor,Research & Development,2408,1,1,1,Yes,1,0.6184291796190632,0.92,1,1
+22,18-25,Female,College,Research & Development,2814,1,4,1,No,0,0.7332897526801173,0.17,1,0
+50,46-60,Male,Doctor,Research & Development,11245,4,30,1,No,0,0.10831831870543394,0.04,0,0
+32,26-35,Female,Master,Research & Development,3312,1,3,0,No,0,0.09527725415621112,0.0,0,0
+44,36-45,Female,Bachelor,Research & Development,19049,5,22,1,No,0,0.05904089623015886,0.02,0,0
+30,26-35,Male,Bachelor,Research & Development,2141,1,6,0,No,0,0.21546896281070516,0.02,0,0
+45,36-45,Female,Doctor,Research & Development,5769,2,10,1,No,0,0.15324622942767155,0.03,0,0
+45,36-45,Male,Bachelor,Sales,4385,2,10,0,No,0,0.17622904943292006,0.09,0,0
+31,26-35,Male,Master,Sales,5332,2,5,0,No,0,0.1880617936526372,0.15,0,0
+36,36-45,Female,Master,Research & Development,4663,2,3,1,No,0,0.5488133722385908,0.11,1,0
+34,26-35,Male,Master,Research & Development,4724,2,9,0,No,0,0.040843881199580365,0.02,0,0
+49,46-60,Female,Master,Research & Development,3211,1,9,0,No,0,0.09057368413675397,0.07,0,0
+39,36-45,Male,Doctor,Research & Development,5377,2,7,0,No,0,0.10602340521920726,0.01,0,0
+27,26-35,Male,Bachelor,Research & Development,4066,1,7,0,No,0,0.13095634166353043,0.07,0,0
+35,26-35,Male,Doctor,Research & Development,5208,2,16,0,No,0,0.07113904237527485,0.08,0,0
+28,26-35,Female,Bachelor,Research & Development,4877,2,5,0,No,0,0.29590051672283396,0.08,0,0
+21,18-25,Male,Below College,Research & Development,3117,1,2,0,No,0,0.11453459492321658,0.06,0,0
+18,,Female,College,Sales,1569,1,0,1,Yes,1,0.4808224534063666,0.87,0,1
+47,46-60,Female,Master,Human Resources,19658,5,5,0,No,0,0.014429872931270077,0.02,0,0
+39,36-45,Male,College,Research & Development,3069,2,10,0,No,0,0.025228307983038958,0.01,0,0
+40,36-45,Female,Bachelor,Research & Development,10435,3,18,0,No,0,0.02663916068401637,0.04,0,0
+35,26-35,Female,Master,Research & Development,4148,2,14,0,No,0,0.022222736090504024,0.0,0,0
+37,36-45,Male,Bachelor,Research & Development,5768,2,4,0,No,0,0.12922207183386814,0.04,0,0
+39,36-45,Female,Bachelor,Research & Development,5042,2,9,0,No,0,0.1512394740918027,0.06,0,0
+45,36-45,Female,College,Research & Development,5770,2,10,0,No,0,0.009087140316176578,0.04,0,0
+38,36-45,Female,College,Research & Development,7756,3,5,1,No,0,0.0662466291393797,0.03,0,0
+35,26-35,Male,Bachelor,Sales,10306,3,13,0,Yes,1,0.08085006745270633,0.65,0,1
+37,36-45,Female,Bachelor,Research & Development,3936,1,8,0,No,0,0.1933401696147867,0.1,0,0
+40,36-45,Female,Bachelor,Research & Development,7945,3,4,1,No,0,0.2568242363110474,0.15,0,0
+44,36-45,Male,Doctor,Human Resources,5743,2,10,1,No,0,0.18296052438963764,0.08,0,0
+48,46-60,Male,Doctor,Research & Development,15202,4,2,0,No,0,0.006847839810283694,0.0,0,0
+35,26-35,Male,College,Sales,5440,2,2,1,Yes,1,0.6580155106030952,0.75,1,1
+24,18-25,Female,Below College,Research & Development,3760,1,6,1,No,0,0.4308112897777026,0.45,0,0
+27,26-35,Female,Bachelor,Research & Development,3517,1,3,0,No,0,0.32315379231617647,0.07,0,0
+27,26-35,Male,Bachelor,Research & Development,2580,1,4,0,No,0,0.10141821988796527,0.04,0,0
+40,36-45,Male,Bachelor,Research & Development,2166,1,4,1,Yes,1,0.703952153111065,0.83,1,1
+29,26-35,Male,Bachelor,Sales,5869,2,5,0,No,0,0.2987114918173897,0.18,0,0
+36,36-45,Female,Master,Research & Development,8008,3,3,0,No,0,0.14103877169038445,0.02,0,0
+25,18-25,Male,Below College,Research & Development,5206,2,7,0,No,0,0.03580257775649873,0.01,0,0
+39,36-45,Male,Bachelor,Research & Development,5295,2,5,0,No,0,0.07323045716149293,0.09,0,0
+49,46-60,Female,Master,Research & Development,16413,4,4,0,No,0,0.044363043094996335,0.01,0,0
+50,46-60,Female,Doctor,Research & Development,13269,3,14,0,No,0,0.020019142842857274,0.02,0,0
+20,18-25,Female,Bachelor,Sales,2783,1,2,0,No,0,0.12469477149875689,0.12,0,0
+34,26-35,Female,Bachelor,Research & Development,5433,2,11,0,No,0,0.032514021273104064,0.03,0,0
+36,36-45,Male,Bachelor,Research & Development,2013,1,4,0,No,0,0.1333997293105987,0.04,0,0
+49,46-60,Female,Below College,Research & Development,13966,4,15,1,No,0,0.016959574560472982,0.01,0,0
+36,36-45,Female,Master,Research & Development,4374,2,3,0,No,0,0.027689576274144697,0.01,0,0
+36,36-45,Male,College,Research & Development,6842,2,5,0,No,0,0.0809905632096991,0.04,0,0
+54,46-60,Female,Doctor,Research & Development,17426,4,10,0,No,0,0.004641878327178982,0.0,0,0
+43,36-45,Male,College,Research & Development,17603,4,14,0,No,0,0.013899206458893379,0.01,0,0
+35,26-35,Male,Master,Sales,4581,2,11,1,Yes,1,0.0758849396014098,0.07,0,0
+38,36-45,Male,Bachelor,Research & Development,4735,2,13,0,No,0,0.013050576054371864,0.01,0,0
+29,26-35,Male,Bachelor,Sales,4187,2,10,1,No,0,0.7031505918584676,0.08,1,0
+33,26-35,Male,Master,Sales,5505,2,6,0,No,0,0.03516095077259832,0.0,0,0
+32,26-35,Male,Bachelor,Research & Development,5470,2,9,0,No,0,0.05459790643321732,0.01,0,0
+31,26-35,Female,Master,Sales,5476,2,10,0,No,0,0.14773020151193242,0.01,0,0
+49,46-60,Female,Bachelor,Research & Development,2587,1,2,1,No,0,0.23928915370299622,0.1,0,0
+38,36-45,Female,Bachelor,Research & Development,2440,1,4,0,No,0,0.042127959136777894,0.03,0,0
+47,46-60,Female,Master,Sales,15972,4,3,0,No,0,0.026450417732776572,0.0,0,0
+49,46-60,Male,Bachelor,Research & Development,15379,4,8,0,No,0,0.01004652528827585,0.01,0,0
+41,36-45,Male,College,Sales,7082,3,2,1,No,0,0.17276675851727835,0.1,0,0
+20,18-25,Male,Below College,Sales,2728,1,2,0,No,0,0.23372727271173155,0.05,0,0
+33,26-35,Female,Bachelor,Sales,5368,2,6,1,No,0,0.17471058476011028,0.06,0,0
+36,36-45,Male,Master,Research & Development,5347,2,3,0,No,0,0.41754322089331447,0.08,0,0
+44,36-45,Female,Bachelor,Human Resources,3195,1,2,1,No,0,0.1394127361156433,0.06,0,0
+23,18-25,Male,Below College,Research & Development,3989,1,5,1,Yes,1,0.3230792091086868,0.7,0,1
+38,36-45,Female,College,Research & Development,3306,1,0,0,No,0,0.0974714073256337,0.02,0,0
+53,46-60,Male,Master,Research & Development,7005,3,4,0,No,0,0.05157747597011806,0.06,0,0
+48,46-60,Female,College,Sales,2655,1,9,1,Yes,1,0.04774922923819543,0.18,0,0
+32,26-35,Male,Master,Research & Development,1393,1,1,0,Yes,1,0.12128150228608321,0.75,0,1
+26,26-35,Male,Bachelor,Research & Development,2570,1,7,0,No,0,0.03310245874945036,0.01,0,0
+55,46-60,Male,Bachelor,Research & Development,3537,1,4,0,No,0,0.2124778294455623,0.07,0,0
+34,26-35,Male,College,Research & Development,3986,2,15,0,No,0,0.024661522685765578,0.0,0,0
+60,46-60,Male,Master,Research & Development,10883,3,1,0,No,0,0.005788124080251736,0.04,0,0
+33,26-35,Male,Bachelor,Research & Development,2028,1,14,0,No,0,0.07644623348772998,0.15,0,0
+37,36-45,Male,Master,Sales,9525,2,6,0,No,0,0.049352447683674514,0.03,0,0
+34,26-35,Female,Bachelor,Research & Development,2929,1,10,0,No,0,0.05577038772914269,0.05,0,0
+23,18-25,Male,Bachelor,Sales,2275,1,3,1,Yes,1,0.36407502822616244,0.77,0,1
+44,36-45,Female,Bachelor,Research & Development,7879,3,8,1,No,0,0.0573741807721579,0.04,0,0
+35,26-35,Male,Master,Research & Development,4930,1,5,1,No,0,0.2067502160581898,0.15,0,0
+43,36-45,Male,Bachelor,Sales,7847,2,10,1,No,0,0.03923792289075888,0.04,0,0
+24,18-25,Male,Bachelor,Research & Development,4401,1,5,0,No,0,0.1413868672954582,0.01,0,0
+41,36-45,Male,Bachelor,Sales,9241,3,10,0,No,0,0.018162815174556916,0.03,0,0
+29,26-35,Female,Master,Research & Development,2974,1,5,0,No,0,0.17079757978157623,0.09,0,0
+36,36-45,Female,Master,Sales,4502,2,13,0,No,0,0.035860441479104034,0.02,0,0
+45,36-45,Male,Below College,Research & Development,10748,3,23,0,No,0,0.008850093677855315,0.01,0,0
+24,18-25,Male,Below College,Human Resources,1555,1,1,0,Yes,1,0.2257147110775078,0.75,0,1
+47,46-60,Male,Bachelor,Sales,12936,4,23,0,Yes,1,0.08620094647783137,0.71,0,1
+26,26-35,Male,Master,Research & Development,2305,1,3,0,No,0,0.09956803914637535,0.05,0,0
+45,36-45,Female,College,Research & Development,16704,4,21,0,No,0,0.02988328132818009,0.02,0,0
+32,26-35,Male,Bachelor,Research & Development,3433,1,5,0,No,0,0.3634709474248509,0.42,0,0
+31,26-35,Male,Master,Research & Development,3477,1,5,0,No,0,0.09468997303561939,0.04,0,0
+41,36-45,Male,Bachelor,Human Resources,6430,2,3,0,No,0,0.09010677674950034,0.02,0,0
+40,36-45,Female,College,Research & Development,6516,2,1,1,No,0,0.28620298352893175,0.25,0,0
+24,18-25,Male,Below College,Research & Development,3907,1,6,0,No,0,0.40236204450285523,0.05,0,0
+46,46-60,Male,Master,Research & Development,5562,2,10,0,No,0,0.0551706164303856,0.03,0,0
+35,26-35,Male,Master,Research & Development,6883,2,7,0,No,0,0.03881778650439717,0.05,0,0
+30,26-35,Male,Below College,Research & Development,2862,1,10,0,No,0,0.23181962584789678,0.01,0,0
+47,46-60,Male,Master,Sales,4978,2,1,0,No,0,0.2348872790749444,0.09,0,0
+46,46-60,Male,Bachelor,Sales,10368,3,10,1,No,0,0.10316058120758297,0.04,0,0
+36,36-45,Male,Doctor,Sales,6134,2,2,1,Yes,1,0.523208507496583,0.16,1,0
+32,26-35,Male,College,Sales,6735,2,0,0,Yes,1,0.2849308552968299,0.72,0,1
+23,18-25,Female,Below College,Research & Development,3295,1,3,0,No,0,0.2569442345843406,0.17,0,0
+31,26-35,Female,Below College,Research & Development,5238,2,5,0,No,0,0.06879175803636282,0.02,0,0
+39,36-45,Male,Bachelor,Research & Development,6472,2,9,1,No,0,0.06062483965391845,0.02,0,0
+32,26-35,Male,Bachelor,Sales,9610,3,4,0,No,0,0.13868920947893076,0.24,0,0
+40,36-45,Male,Master,Sales,19833,5,21,0,No,0,0.041588558222162404,0.02,0,0
+45,36-45,Female,Bachelor,Human Resources,9756,3,5,0,No,0,0.03665732409859319,0.01,0,0
+30,26-35,Female,Master,Research & Development,4968,1,9,0,No,0,0.04526756614982975,0.0,0,0
+24,18-25,Male,Bachelor,Human Resources,2145,1,2,0,No,0,0.20865105930255232,0.04,0,0
+30,26-35,Female,Bachelor,Human Resources,2180,1,4,0,Yes,1,0.22037109926670473,0.7,0,1
+31,26-35,Male,Bachelor,Sales,8346,2,5,0,No,0,0.13820766342599472,0.03,0,0
+27,26-35,Female,Bachelor,Research & Development,3445,1,6,0,No,0,0.1014844071669832,0.08,0,0
+29,26-35,Female,Bachelor,Sales,2760,1,2,0,Yes,1,0.19670304181850645,0.76,0,1
+29,26-35,Male,Bachelor,Research & Development,6294,2,3,1,No,0,0.29053302216006305,0.15,0,0
+30,26-35,Male,College,Sales,7140,3,7,0,No,0,0.12464218199926476,0.05,0,0
+34,26-35,Male,Master,Research & Development,2932,1,5,1,No,0,0.1644668418356858,0.04,0,0
+33,26-35,Female,Bachelor,Sales,5147,2,11,0,No,0,0.11700647847388834,0.1,0,0
+49,46-60,Female,Master,Sales,4507,2,5,0,No,0,0.024079278242756744,0.04,0,0
+33,26-35,Female,Bachelor,Sales,8564,3,0,1,Yes,1,0.6561105193316643,0.82,1,1
+38,36-45,Female,College,Research & Development,2468,1,6,0,No,0,0.13274053470816088,0.04,0,0
+31,26-35,Male,Master,Sales,8161,3,1,0,Yes,1,0.22174274104104733,0.79,0,1
+29,26-35,Female,Bachelor,Research & Development,2109,1,1,0,No,0,0.1583606231190914,0.64,0,1
+30,26-35,Male,Bachelor,Research & Development,5294,2,7,0,No,0,0.17102438136134082,0.01,0,0
+32,26-35,Male,Master,Research & Development,2718,1,7,0,No,0,0.09305481609413582,0.02,0,0
+38,36-45,Male,Bachelor,Research & Development,5811,2,1,1,No,0,0.3047249213702929,0.07,0,0
+43,36-45,Male,Bachelor,Research & Development,2437,1,1,1,Yes,1,0.5531474758731728,0.65,1,1
+42,36-45,Male,Bachelor,Research & Development,2766,1,5,0,No,0,0.2587796838436264,0.15,0,0
+55,46-60,Male,Bachelor,Research & Development,19038,5,1,0,No,0,0.02167932641031167,0.04,0,0
+33,26-35,Male,Bachelor,Research & Development,3055,2,9,0,No,0,0.09451848020944817,0.06,0,0
+41,36-45,Male,Master,Research & Development,2289,1,5,0,No,0,0.1070024344284072,0.11,0,0
+34,26-35,Male,Bachelor,Sales,4001,2,15,1,No,0,0.07018918631022691,0.01,0,0
+53,46-60,Female,Master,Research & Development,12965,4,3,1,No,0,0.0930315242476437,0.02,0,0
+43,36-45,Male,Bachelor,Human Resources,3539,1,9,0,No,0,0.02124872219629015,0.03,0,0
+34,26-35,Female,College,Sales,6029,2,2,0,No,0,0.05233075325316597,0.05,0,0
+21,18-25,Male,Below College,Sales,2679,1,1,0,Yes,1,0.3379696536777181,0.7,0,1
+38,36-45,Female,College,Research & Development,3702,1,5,0,No,0,0.03623283904336344,0.05,0,0
+22,18-25,Female,Below College,Research & Development,2398,1,1,1,Yes,1,0.5800127209911803,0.83,1,1
+31,26-35,Female,Master,Sales,5468,2,12,0,No,0,0.12397206545670358,0.32,0,0
+51,46-60,Female,Bachelor,Research & Development,13116,3,2,0,No,0,0.029557597738343114,0.05,0,0
+37,36-45,Male,College,Sales,4189,2,5,0,No,0,0.15403756068295565,0.03,0,0
+46,46-60,Male,Master,Research & Development,19328,5,2,1,No,0,0.06777574703287914,0.04,0,0
+36,36-45,Male,Bachelor,Research & Development,8321,3,12,1,No,0,0.3524580475912705,0.14,0,0
+44,36-45,Male,College,Research & Development,2342,1,5,1,Yes,1,0.2763896701752024,0.73,0,1
+37,36-45,Male,College,Human Resources,4071,2,10,0,No,0,0.11201206910990494,0.04,0,0
+35,26-35,Male,Bachelor,Sales,5813,2,10,1,Yes,1,0.22162942180882766,0.68,0,1
+33,26-35,Male,Master,Research & Development,3143,1,10,0,No,0,0.10707027761212311,0.07,0,0
+28,26-35,Male,Bachelor,Research & Development,2044,1,5,0,No,0,0.04662952334872512,0.1,0,0
+39,36-45,Male,Below College,Research & Development,13464,3,4,0,No,0,0.08043574742244379,0.03,0,0
+46,46-60,Male,College,Sales,7991,2,2,0,No,0,0.280220583246054,0.07,0,0
+40,36-45,Female,College,Research & Development,3377,1,4,0,No,0,0.1162654207614383,0.02,0,0
+42,36-45,Male,Bachelor,Research & Development,5538,2,0,0,No,0,0.2768241608222949,0.07,0,0
+35,26-35,Male,College,Research & Development,5762,2,7,0,No,0,0.026343404247131125,0.05,0,0
+38,36-45,Male,Bachelor,Human Resources,2592,1,11,0,No,0,0.11221921341273398,0.05,0,0
+34,26-35,Male,Master,Research & Development,5346,2,7,0,Yes,1,0.1843549513780693,0.66,0,1
+37,36-45,Male,Master,Research & Development,4213,2,10,0,Yes,1,0.14142225486666696,0.68,0,1
+39,36-45,Male,Bachelor,Sales,4127,2,2,0,No,0,0.06265319551395578,0.01,0,0
+43,36-45,Male,Bachelor,Research & Development,2438,1,3,0,No,0,0.21653206380448112,0.23,0,0
+41,36-45,Male,Bachelor,Research & Development,6870,2,3,0,No,0,0.16213872103487537,0.03,0,0
+41,36-45,Female,Below College,Sales,10447,3,22,1,No,0,0.02222824605117913,0.01,0,0
+30,26-35,Female,Bachelor,Research & Development,9667,3,7,0,No,0,0.2463595658042537,0.24,0,0
+26,26-35,Female,College,Human Resources,2148,1,5,1,Yes,1,0.4454077733245821,0.29,0,0
+46,46-60,Female,College,Research & Development,8926,2,9,0,Yes,1,0.024632564227607134,0.65,0,1
+40,36-45,Female,Bachelor,Research & Development,6513,2,5,0,No,0,0.030020318449208213,0.0,0,0
+34,26-35,Male,College,Sales,6799,2,10,0,No,0,0.04518987663322158,0.0,0,0
+58,46-60,Male,Bachelor,Sales,16291,4,16,0,No,0,0.0085662191608952,0.04,0,0
+35,26-35,Male,Master,Research & Development,2705,1,5,0,No,0,0.10264916981058624,0.12,0,0
+47,46-60,Female,Bachelor,Research & Development,10333,3,22,1,No,0,0.09940531156819572,0.0,0,0
+40,36-45,Female,Bachelor,Research & Development,4448,2,7,0,No,0,0.10274400624821314,0.0,0,0
+54,46-60,Female,Master,Research & Development,6854,2,7,0,No,0,0.022374502627080822,0.02,0,0
+31,26-35,Female,Master,Sales,9637,3,3,0,No,0,0.20855036566763818,0.05,0,0
+28,26-35,Female,Bachelor,Research & Development,3591,1,3,0,No,0,0.1251857687566201,0.06,0,0
+38,36-45,Female,Master,Sales,5405,2,4,1,No,0,0.1301265306432049,0.01,0,0
+26,26-35,Male,Bachelor,Sales,4684,2,5,0,No,0,0.0901584711198958,0.02,0,0
+58,46-60,Male,Master,Research & Development,15787,4,2,1,No,0,0.08036139646263415,0.04,0,0
+18,,Female,Bachelor,Research & Development,1514,1,0,0,No,0,0.45377656128365246,0.54,0,1
+31,26-35,Male,Doctor,Human Resources,2956,1,1,0,Yes,1,0.16901310871021777,0.74,0,1
+29,26-35,Male,Bachelor,Human Resources,2335,1,2,1,Yes,1,0.7999406110055568,0.84,1,1
+45,36-45,Female,Master,Sales,5154,2,8,0,No,0,0.018772623463366875,0.03,0,0
+36,36-45,Female,Master,Research & Development,6962,2,1,1,No,0,0.17963531507394492,0.06,0,0
+43,36-45,Male,Master,Sales,5675,2,7,0,No,0,0.03177750678803519,0.03,0,0
+27,26-35,Female,College,Research & Development,2379,1,5,1,No,0,0.1891103553717881,0.02,0,0
+29,26-35,Male,Below College,Research & Development,3812,1,11,0,No,0,0.032628697424186864,0.02,0,0
+32,26-35,Male,Master,Sales,4648,2,0,0,No,0,0.13224445329751253,0.06,0,0
+42,36-45,Male,Master,Research & Development,2936,1,6,0,No,0,0.0865889723572877,0.01,0,0
+47,46-60,Female,Master,Research & Development,2105,1,2,0,No,0,0.0890065873431319,0.03,0,0
+46,46-60,Male,College,Research & Development,8578,3,9,0,No,0,0.013484597649245028,0.13,0,0
+28,26-35,Male,College,Human Resources,2706,1,3,0,No,0,0.08169545826170833,0.03,0,0
+29,26-35,Male,Below College,Research & Development,6384,2,7,0,No,0,0.3039507846379854,0.09,0,0
+42,36-45,Male,Bachelor,Research & Development,3968,1,0,0,No,0,0.060226702421940524,0.03,0,0
+32,26-35,Male,Master,Sales,9907,2,2,1,Yes,1,0.5554202167866374,0.75,1,1
+46,46-60,Female,Bachelor,Sales,13225,4,19,0,No,0,0.012624910147202168,0.01,0,0
+27,26-35,Female,Below College,Sales,3540,2,9,0,No,0,0.09769956066847062,0.05,0,0
+29,26-35,Male,Below College,Human Resources,2804,1,1,0,No,0,0.13929677959409323,0.09,0,0
+43,36-45,Female,Bachelor,Research & Development,19392,5,16,0,No,0,0.03405963059431678,0.09,0,0
+48,46-60,Male,Bachelor,Research & Development,19665,5,22,0,No,0,0.009949597010108783,0.02,0,0
+29,26-35,Male,College,Research & Development,2439,1,1,1,Yes,1,0.43479119036972513,0.97,0,1
+46,46-60,Female,Bachelor,Sales,7314,3,8,0,Yes,1,0.03960636116432185,0.65,0,1
+27,26-35,Female,Bachelor,Research & Development,4774,1,7,0,No,0,0.11089977152264,0.04,0,0
+39,36-45,Male,Master,Research & Development,3902,2,2,0,No,0,0.12592946317715747,0.05,0,0
+55,46-60,Male,Master,Research & Development,2662,1,5,0,No,0,0.029763055300103595,0.03,0,0
+28,26-35,Female,Bachelor,Sales,2856,1,1,0,No,0,0.19363507167327804,0.24,0,0
+30,26-35,Male,Bachelor,Sales,1081,1,1,0,Yes,1,0.214853371614274,0.88,0,1
+22,18-25,Male,Below College,Research & Development,2472,1,1,1,Yes,1,0.4816426216267786,0.86,0,1
+36,36-45,Female,Master,Sales,5673,2,10,1,No,0,0.16868399955607477,0.02,0,0
+31,26-35,Male,Bachelor,Research & Development,4197,2,10,0,No,0,0.11752973677463999,0.14,0,0
+34,26-35,Male,Bachelor,Sales,9713,3,5,1,No,0,0.16750126435625007,0.15,0,0
+29,26-35,Male,Bachelor,Research & Development,2062,1,3,0,No,0,0.1426404311529974,0.01,0,0
+37,36-45,Male,Master,Research & Development,4284,2,5,1,No,0,0.2864440613697908,0.03,0,0
+35,26-35,Female,College,Research & Development,4788,2,3,1,No,0,0.2845940211490472,0.07,0,0
+45,36-45,Female,College,Research & Development,5906,2,9,0,No,0,0.0454989335299564,0.05,0,0
+36,36-45,Male,Below College,Human Resources,3886,2,10,0,No,0,0.09444932696969643,0.0,0,0
+40,36-45,Male,Master,Research & Development,16823,4,19,0,No,0,0.06456354487760108,0.02,0,0
+26,26-35,Female,College,Research & Development,2933,1,1,1,No,0,0.5518646327665491,0.67,1,1
+27,26-35,Female,College,Sales,6500,2,8,0,No,0,0.09139341079898629,0.01,0,0
+48,46-60,Female,Bachelor,Research & Development,17174,4,22,0,No,0,0.0038786244466918517,0.01,0,0
+44,36-45,Male,Master,Research & Development,5033,2,2,0,No,0,0.09470498111488553,0.06,0,0
+34,26-35,Male,Master,Research & Development,2307,1,5,1,Yes,1,0.4133829057821098,0.88,0,1
+56,46-60,Male,College,Research & Development,2587,1,4,0,Yes,1,0.07327028747543277,0.66,0,1
+36,36-45,Male,College,Sales,5507,2,4,0,No,0,0.19377989405631563,0.09,0,0
+41,36-45,Female,Bachelor,Sales,4393,2,5,0,No,0,0.06053896125132563,0.0,0,0
+42,36-45,Male,Bachelor,Research & Development,13348,3,13,0,No,0,0.0748111798216979,0.02,0,0
+31,26-35,Female,College,Sales,6583,2,5,1,No,0,0.25989283515197675,0.03,0,0
+34,26-35,Female,Below College,Sales,8103,2,4,1,No,0,0.17108859072590932,0.03,0,0
+31,26-35,Female,Bachelor,Research & Development,3978,1,2,0,No,0,0.4597779446530429,0.11,0,0
+26,26-35,Male,Bachelor,Research & Development,2544,1,7,0,No,0,0.04393972331298512,0.01,0,0
+45,36-45,Male,Master,Research & Development,5399,2,4,0,No,0,0.06369593134142973,0.16,0,0
+33,26-35,Male,Master,Sales,5487,2,10,0,No,0,0.1428545053286221,0.01,0,0
+28,26-35,Male,College,Sales,6834,2,7,1,No,0,0.16357934280508638,0.03,0,0
+29,26-35,Male,Bachelor,Sales,1091,1,1,0,Yes,1,0.3557188116075027,0.86,0,1
+39,36-45,Female,Master,Sales,5736,2,3,0,No,0,0.23898010396105546,0.1,0,0
+27,26-35,Male,Master,Research & Development,2226,1,5,0,No,0,0.23072248844384852,0.03,0,0
+34,26-35,Male,Master,Research & Development,5747,2,15,1,No,0,0.13912542779281356,0.04,0,0
+28,26-35,Female,College,Sales,9854,2,2,1,Yes,1,0.37901461271542847,0.77,0,1
+47,46-60,Male,Master,Research & Development,5467,2,8,0,No,0,0.051634746918679024,0.02,0,0
+56,46-60,Female,Doctor,Sales,5380,2,0,0,No,0,0.05210960699639811,0.13,0,0
+39,36-45,Male,College,Research & Development,5151,2,10,0,No,0,0.2160918878627424,0.06,0,0
+38,36-45,Female,Bachelor,Research & Development,2133,2,20,1,No,0,0.08259536862383758,0.07,0,0
+58,46-60,Female,Bachelor,Sales,17875,4,1,1,No,0,0.034452674175433885,0.02,0,0
+32,26-35,Female,College,Research & Development,2432,1,4,1,Yes,1,0.5248896535820707,0.78,1,1
+38,36-45,Male,College,Research & Development,4771,1,5,0,No,0,0.05827101710593687,0.02,0,0
+49,46-60,Male,Below College,Research & Development,19161,5,5,0,No,0,0.007178030075703401,0.03,0,0
+42,36-45,Male,Master,Sales,5087,2,0,1,No,0,0.22574805188321095,0.05,0,0
+27,26-35,Female,Bachelor,Human Resources,2863,1,1,0,Yes,1,0.45003332082863107,0.89,0,1
+35,26-35,Male,Master,Sales,5561,2,5,0,No,0,0.3124246161648859,0.11,0,0
+28,26-35,Male,Bachelor,Research & Development,2144,1,5,0,No,0,0.185463399589357,0.03,0,0
+31,26-35,Male,College,Research & Development,3065,1,4,1,No,0,0.38508744446856885,0.13,0,0
+36,36-45,Male,Master,Research & Development,2810,1,5,0,No,0,0.15880330957595304,0.1,0,0
+34,26-35,Male,Bachelor,Sales,9888,3,14,0,No,0,0.05054739763770309,0.09,0,0
+34,26-35,Male,Master,Sales,8628,3,8,0,No,0,0.04648480925847652,0.01,0,0
+26,26-35,Male,Bachelor,Research & Development,2867,1,7,0,No,0,0.10524391822349448,0.03,0,0
+29,26-35,Male,Bachelor,Research & Development,5373,2,5,0,No,0,0.25182618338968105,0.01,0,0
+32,26-35,Female,Master,Research & Development,6667,2,5,0,No,0,0.09239425156451378,0.08,0,0
+31,26-35,Male,Bachelor,Research & Development,5003,2,10,0,No,0,0.03797072526534523,0.1,0,0
+28,26-35,Male,Bachelor,Research & Development,2367,1,4,0,Yes,1,0.28726858367241603,0.73,0,1
+38,36-45,Male,Bachelor,Sales,2858,1,1,0,No,0,0.21078856360538406,0.17,0,0
+35,26-35,Female,Master,Sales,5204,2,10,1,No,0,0.11774714011447378,0.02,0,0
+27,26-35,Male,Bachelor,Sales,4105,2,7,0,No,0,0.03573194299602854,0.03,0,0
+32,26-35,Male,Master,Research & Development,9679,2,1,0,No,0,0.0953603989923268,0.06,0,0
+31,26-35,Male,Master,Sales,5617,2,10,1,Yes,1,0.41713245241747665,0.69,0,1
+53,46-60,Male,Master,Sales,10448,3,2,1,Yes,1,0.5866746454774512,0.75,1,1
+54,46-60,Female,College,Research & Development,2897,2,4,0,No,0,0.07053616462969883,0.09,0,0
+33,26-35,Male,College,Research & Development,5968,2,9,0,No,0,0.03253239131567277,0.05,0,0
+43,36-45,Male,Bachelor,Research & Development,7510,3,10,0,No,0,0.05551852171911812,0.09,0,0
+38,36-45,Male,Master,Human Resources,2991,1,6,1,No,0,0.20164277484164228,0.06,0,0
+55,46-60,Male,Master,Human Resources,19636,5,10,1,No,0,0.04055999910724401,0.09,0,0
+31,26-35,Female,Below College,Research & Development,1129,1,1,1,No,0,0.21006941073137297,0.56,0,1
+39,36-45,Male,Master,Sales,13341,4,20,0,No,0,0.06057869741422465,0.01,0,0
+42,36-45,Male,College,Research & Development,4332,2,20,0,No,0,0.029209722531428027,0.02,0,0
+31,26-35,Female,Bachelor,Research & Development,11031,3,11,0,No,0,0.04149267727829027,0.05,0,0
+54,46-60,Female,Bachelor,Research & Development,4440,2,5,1,No,0,0.29383377535754085,0.03,0,0
+24,18-25,Male,College,Research & Development,4617,2,4,0,No,0,0.20353379069057448,0.02,0,0
+23,18-25,Male,College,Research & Development,2647,1,5,0,No,0,0.06141403073675898,0.03,0,0
+40,36-45,Female,Bachelor,Research & Development,6323,2,10,0,No,0,0.015207548730854427,0.01,0,0
+40,36-45,Female,College,Sales,5677,2,11,0,No,0,0.04360789890189349,0.0,0,0
+25,18-25,Female,Bachelor,Human Resources,2187,1,2,0,No,0,0.2121032916521415,0.11,0,0
+30,26-35,Male,College,Research & Development,3748,1,12,0,No,0,0.04589913908258524,0.02,0,0
+25,18-25,Male,Below College,Research & Development,3977,1,2,1,No,0,0.47437955094486717,0.11,0,0
+47,46-60,Male,Bachelor,Research & Development,8633,3,17,0,No,0,0.021985083571391985,0.01,0,0
+33,26-35,Male,College,Research & Development,2008,1,1,0,No,0,0.1855728485114027,0.11,0,0
+38,36-45,Male,Master,Sales,4440,2,15,0,No,0,0.012159719291038932,0.01,0,0
+31,26-35,Male,College,Sales,3067,1,2,0,No,0,0.15165062968170867,0.02,0,0
+38,36-45,Male,Master,Research & Development,5321,2,8,0,No,0,0.1412600443567336,0.05,0,0
+42,36-45,Male,Master,Research & Development,5410,2,4,1,No,0,0.4892062682140587,0.08,0,0
+41,36-45,Male,Bachelor,Research & Development,2782,1,5,0,No,0,0.02087937656933881,0.01,0,0
+47,46-60,Female,Below College,Research & Development,11957,3,13,0,No,0,0.021404048509919175,0.01,0,0
+35,26-35,Male,Master,Research & Development,2660,1,2,1,No,0,0.445479271278979,0.1,0,0
+22,18-25,Male,College,Research & Development,3375,1,3,0,No,0,0.06549954158468196,0.03,0,0
+35,26-35,Male,Master,Research & Development,5098,2,10,0,No,0,0.055268762377011664,0.03,0,0
+33,26-35,Female,College,Research & Development,4878,2,9,1,No,0,0.15910556257093417,0.07,0,0
+32,26-35,Female,Master,Research & Development,2837,1,6,0,No,0,0.20852659870864032,0.06,0,0
+40,36-45,Male,Master,Research & Development,2406,1,1,0,No,0,0.24077234329814265,0.08,0,0
+32,26-35,Male,Master,Sales,2269,1,2,0,No,0,0.14240451075589383,0.03,0,0
+39,36-45,Male,Below College,Research & Development,4108,2,7,0,No,0,0.14374545733447555,0.08,0,0
+38,36-45,Female,Bachelor,Research & Development,13206,3,18,0,No,0,0.016463573376384693,0.0,0,0
+32,26-35,Female,Master,Sales,10422,3,14,0,No,0,0.014351846220858281,0.04,0,0
+37,36-45,Female,Bachelor,Research & Development,13744,3,16,1,No,0,0.04610551888817624,0.04,0,0
+25,18-25,Female,College,Sales,4907,2,5,1,No,0,0.5075077597401285,0.24,1,0
+52,46-60,Male,Master,Sales,3482,1,9,0,No,0,0.05923324663322995,0.13,0,0
+44,36-45,Male,Bachelor,Research & Development,2436,1,4,1,No,0,0.3161776499846735,0.14,0,0
+21,18-25,Male,Below College,Sales,2380,1,2,1,No,0,0.5771744720846235,0.14,1,0
+39,36-45,Male,Bachelor,Research & Development,19431,5,6,0,No,0,0.020364318847233293,0.0,0,0
+23,18-25,Male,Bachelor,Sales,1790,1,1,0,Yes,1,0.2903210195764739,0.83,0,1
+36,36-45,Female,Bachelor,Sales,7644,3,9,0,No,0,0.03655258194040152,0.02,0,0
+36,36-45,Female,College,Research & Development,5131,2,4,0,No,0,0.06991854296083501,0.02,0,0
+56,46-60,Male,Master,Research & Development,6306,2,13,0,No,0,0.008710609014303356,0.01,0,0
+29,26-35,Male,Master,Research & Development,4787,1,2,1,Yes,1,0.617606020989763,0.32,1,0
+42,36-45,Male,Bachelor,Research & Development,18880,5,22,0,No,0,0.07826841281881951,0.04,0,0
+56,46-60,Male,College,Research & Development,2339,1,10,0,Yes,1,0.04024845408732218,0.71,0,1
+41,36-45,Female,Master,Research & Development,13570,4,20,0,No,0,0.0678375754734207,0.02,0,0
+34,26-35,Female,Bachelor,Sales,6712,2,8,0,No,0,0.0496434491780405,0.05,0,0
+36,36-45,Male,Master,Sales,5406,2,15,0,No,0,0.01642464731465799,0.05,0,0
+41,36-45,Male,Bachelor,Sales,8938,2,5,0,No,0,0.03420624272421391,0.03,0,0
+32,26-35,Male,Bachelor,Research & Development,2439,1,4,0,No,0,0.103674661264783,0.03,0,0
+35,26-35,Female,Master,Human Resources,8837,3,9,1,No,0,0.32837455517248926,0.29,0,0
+38,36-45,Female,College,Sales,5343,2,10,0,No,0,0.0643893650788373,0.1,0,0
+50,46-60,Male,Master,Sales,6728,2,6,0,Yes,1,0.07110070763761175,0.67,0,1
+36,36-45,Female,Master,Sales,6652,2,6,0,No,0,0.132199467971657,0.02,0,0
+45,36-45,Female,Bachelor,Sales,4850,2,5,0,No,0,0.0955294760925811,0.02,0,0
+40,36-45,Male,Master,Research & Development,2809,1,2,0,No,0,0.05600964457876022,0.02,0,0
+35,26-35,Male,Master,Research & Development,5689,2,10,1,No,0,0.28740494956024704,0.06,0,0
+40,36-45,Female,Master,Research & Development,2001,1,5,0,No,0,0.027131265857672306,0.05,0,0
+35,26-35,Female,Master,Research & Development,2977,1,4,0,No,0,0.0390280641258886,0.02,0,0
+29,26-35,Male,College,Research & Development,4025,2,4,1,No,0,0.4196852665120712,0.07,0,0
+29,26-35,Female,Master,Research & Development,3785,1,5,0,No,0,0.28366515618242527,0.12,0,0
+50,46-60,Male,Bachelor,Sales,10854,3,3,1,Yes,1,0.1985791665447996,0.71,0,1
+39,36-45,Female,Below College,Sales,12031,4,20,0,No,0,0.03874700125339775,0.02,0,0
+31,26-35,Male,Bachelor,Research & Development,9936,2,9,0,No,0,0.11692320368046333,0.06,0,0
+26,26-35,Female,Bachelor,Sales,2966,1,4,0,No,0,0.06363735007824788,0.03,0,0
+36,36-45,Male,College,Research & Development,2571,2,5,0,No,0,0.08343255591084017,0.03,0,0
+39,36-45,Male,Below College,Research & Development,9991,3,7,0,No,0,0.04758035945746503,0.05,0,0
+27,26-35,Male,Bachelor,Research & Development,6142,2,6,1,No,0,0.5201966579638218,0.19,1,0
+49,46-60,Male,Bachelor,Sales,5390,2,9,0,No,0,0.020763435254361466,0.04,0,0
+34,26-35,Male,Bachelor,Research & Development,4404,2,4,0,No,0,0.0937458791271927,0.05,0,0
